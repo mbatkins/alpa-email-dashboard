@@ -1,8 +1,40 @@
-
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="ALPA Email Analytics", layout="wide")
+# Page config
+st.set_page_config(
+    page_title="ALPA - Higher Logic Analytics",
+    layout="wide"
+)
+
+# ---- Custom Styling ----
+st.markdown("""
+<style>
+    body {
+        background-color: #f5f7fa;
+    }
+    .main {
+        background-color: #f5f7fa;
+    }
+    .header-banner {
+        background-color: #003366;
+        padding: 20px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    }
+    .header-banner h1 {
+        color: white;
+        margin: 0;
+    }
+</style>
+""", unsafe_allow_html=True)
+
+# Header Banner
+st.markdown("""
+<div class="header-banner">
+    <h1>ALPA - Higher Logic Analytics</h1>
+</div>
+""", unsafe_allow_html=True)
 
 @st.cache_data
 def load_data():
@@ -12,22 +44,28 @@ def load_data():
 
 df = load_data()
 
-st.title("ALPA Email Performance Dashboard")
-
-# Sidebar group selector
+# Sidebar
+st.sidebar.markdown("## Filter by Airline Group")
 groups = sorted(df["group_name"].dropna().unique())
 selected_group = st.sidebar.selectbox("Select Airline Group", groups)
 
 filtered = df[df["group_name"] == selected_group].sort_values("last_sent", ascending=False)
 
-st.subheader(f"{selected_group} - Recent Campaign Open Rates")
+# Layout columns
+col1, col2 = st.columns([2, 1])
 
-st.bar_chart(
-    filtered.set_index("message")["opened%"].head(25)
-)
+with col1:
+    st.subheader(f"{selected_group} - Recent Campaign Open Rates")
+    st.bar_chart(
+        filtered.set_index("message")["opened%"].head(20)
+    )
 
-st.subheader("Campaign Table")
+with col2:
+    st.subheader("Quick Stats")
+    st.metric("Avg Open Rate", f"{filtered['opened%'].mean():.2f}%")
+    st.metric("Avg Click Rate", f"{filtered['clicked%'].mean():.2f}%")
 
+st.subheader("Campaign Details")
 st.dataframe(
     filtered[[
         "last_sent",
