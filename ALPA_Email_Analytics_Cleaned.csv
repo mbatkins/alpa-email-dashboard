@@ -1,27 +1,90 @@
 group_name,message,last_sent,sent,delivered%,opened%,clicked%,bounced%,opt_out%
 Alaska Airlines,123.45: JCBA Negotiations Update - Feb. 20 2026,02/20/2026,4511,99.93%,79.02%,1.31%,0.07%,0.07%
+Alaska Airlines,123.45: JCBA Update Upcoming Events New Social,03/08/2026,4496,99.91%,78.12%,16.99%,0.09%,0.02%
 West Jet Airlines,2026 - #10 - WJA MEC Update 2/17/2026,02/17/2026,2364,100%,62.86%,21.36%,0%,0.04%
+West Jet Airlines,2026 - #11 - WestJet Special Update 2/26/2026,02/26/2026,2357,100%,84.68%,1.27%,0%,0%
+West Jet Airlines,2026 - #12- WestJet Negotiating Update 3/6/26,03/09/2026,2358,100%,87.57%,45.55%,0%,0%
+West Jet Airlines,2026 - #13 - WJA MEC Update 3/10/2026,03/11/2026,2354,100%,79.82%,19.84%,0%,0%
+Air Canada,ACA MEC Fastread 27 February,02/27/2026,5526,100%,77.43%,0.54%,0%,0.02%
+ALPA National,Air Line Pilot March 2026,03/11/2026,88396,99.81%,50.93%,2%,0.19%,0.07%
+Amerijet Airlines,AJT Neg Tracker 3-5-2026,03/05/2026,198,100%,63.64%,12.12%,0%,0.51%
+Amerijet Airlines,AJT Sky Pirate 3-6-2026,03/06/2026,195,100%,61.03%,5.64%,0%,0%
 ALPA National,AND  for Tuesday February 24 2026,02/24/2026,47695,99.97%,57.62%,1.5%,0.03%,0.09%
 ALPA National,AND for Friday February 20 2026,02/20/2026,47622,99.96%,58.13%,1.78%,0.04%,0.09%
+ALPA National,AND for Friday February 27 2026,02/27/2026,48345,99.96%,56.53%,2.15%,0.04%,0.08%
+ALPA National,AND for Friday March 13 2026,03/13/2026,48234,99.99%,52.21%,2.32%,0.01%,0.04%
+ALPA National,AND for Friday March 6 2026,03/06/2026,48348,99.99%,54.95%,2.43%,0.01%,0.05%
 ALPA National,AND for Monday February 23 2026,02/23/2026,47627,99.97%,57.25%,2.27%,0.03%,0.09%
+ALPA National,AND for Monday March 2 2026,03/02/2026,48301,99.99%,56.73%,2.37%,0.01%,0.07%
+ALPA National,AND for Monday March 9 2026,03/09/2026,48302,99.99%,54.55%,1.95%,0.01%,0.05%
 ALPA National,AND for Thursday February 19 2026,02/19/2026,47621,99.99%,43.43%,2.29%,0.01%,0.08%
+ALPA National,AND for Thursday February 26 2026,02/26/2026,48378,99.99%,56.43%,2.1%,0.01%,0.1%
+ALPA National,AND for Thursday March 5 2026,03/05/2026,48230,99.99%,54.82%,1.46%,0.01%,0.05%
 ALPA National,AND for Tuesday February 17 2026,02/17/2026,47617,99.99%,29.24%,1.84%,0.01%,0.09%
+ALPA National,AND for Tuesday March 10 2026,03/10/2026,48292,99.98%,53.61%,1.15%,0.02%,0.05%
+ALPA National,AND for Tuesday March 3 2026,03/03/2026,48269,99.99%,55.35%,1.02%,0.01%,0.07%
 ALPA National,AND for Wednesday February 18 2026,02/18/2026,47598,99.99%,30.83%,2.18%,0.01%,0.09%
+ALPA National,AND for Wednesday February 25 2026,02/25/2026,48399,99.99%,56.43%,1.82%,0.01%,0.11%
+ALPA National,AND for Wednesday March 11 2026,03/11/2026,48245,99.97%,53.38%,2.33%,0.03%,0.03%
+ALPA National,AND for Wednesday March 4 2026,03/04/2026,48248,99.99%,54.36%,1.21%,0.01%,0.07%
+PSA Airlines,April 2026 Bid Package,03/06/2026,2023,100%,70.59%,0.79%,0%,0.1%
+FedEx Express,April 2026 SIG Notes - 3/9/26,03/09/2026,4912,99.98%,82.61%,43.7%,0.02%,0%
+Air Wisconsin (Custodianship),ARW -- Bidding Correction 260227,02/27/2026,633,99.84%,67.72%,1.42%,0.16%,0.16%
+Air Wisconsin (Custodianship),ARW -- Final Recall announcement 260226,02/26/2026,634,100%,71.29%,3%,0%,0%
+Air Transport Int'l,ATI -- FACT Team comm 260310,03/12/2026,546,100%,75.27%,6.23%,0%,0%
+Air Transport Int'l,ATI -- MEC TA Vote 260306,03/06/2026,547,100%,83.18%,3.84%,0%,0%
+Air Transport Int'l,ATI -- post road show thanks 260310,03/10/2026,551,100%,81.49%,19.78%,0%,0%
+Air Transport Int'l,ATI -- Road Show Updates 260312,03/12/2026,542,100%,71.03%,1.66%,0%,0%
+Air Transport Int'l,ATI -- Skypointer 260227,02/28/2026,547,100%,71.3%,2.19%,0%,0%
+Air Transport Int'l,ATI -- Skypointer 260303,03/03/2026,546,100%,82.6%,2.93%,0%,0%
+Air Transport Int'l,ATI -- TA Announcement 260304,03/04/2026,552,100%,85.14%,5.25%,0%,0%
+Air Transport Int'l,ATI -- TA Executive Summary 260309,03/09/2026,548,100%,92.15%,79.93%,0%,0%
 Air Transport Int'l,ATI -- Update 260224,02/25/2026,551,100%,79.31%,3.45%,0%,0%
+Air Transport Int'l,ATI -- Virtual Roadshow Signup 260310,03/09/2026,547,100%,83.73%,45.34%,0%,0%
 Air Transport Int'l,ATI Skypointer 2.21.26 - Negotiations Update,02/21/2026,552,100%,83.51%,4.89%,0%,0%
+Air Transport Int'l,ATI TA -- website & full-language TA 260310,03/10/2026,546,100%,81.87%,7.14%,0%,0%
+Hawaiian,CASC: Smoke/Fumes Guidance,03/11/2026,1213,99.84%,76.47%,1.24%,0.16%,0%
+Delta,Chairman's Letter - March 13 2026,03/13/2026,16217,99.99%,70.93%,0.39%,0.01%,0%
 PSA Airlines,Chairman's Update - 2/20/2026,02/20/2026,2019,99.9%,71.94%,2.48%,0.1%,0.15%
+PSA Airlines,Chairman's Update - 2/27/2026,02/27/2026,2057,100%,73.26%,0.58%,0%,0.19%
+Cargo Jet,CJT MEC Chronicle March 2026,03/06/2026,549,100%,68.67%,4.37%,0%,0%
 Cargo Jet,CJT MEC Update 2/17/2026,02/27/2026,543,100%,73.85%,8.1%,0%,0%
 Cargo Jet,CJT MEC Update 2/18/2026,02/18/2026,532,100%,60.34%,5.64%,0%,0%
 Cargo Jet,CJT MEC Update 2/23/2026,02/23/2026,531,100%,74.01%,1.13%,0%,0%
 Cargo Jet,CJT Security Update 2/22/2026,02/22/2026,531,100%,75.52%,0.94%,0%,0%
+Kalitta Air,CKS MEC Middle East FIVE 3-03-2026,03/03/2026,927,100%,72.6%,0.11%,0%,0%
 Kalitta Air,CKS MEC Update 2-20-2026 Where We Stand,02/20/2026,924,100%,78.68%,5.52%,0%,0%
+Kalitta Air,CKS MEC Update 3-13-2026,03/13/2026,930,100%,73.76%,0.54%,0%,0%
+Kalitta Air,CKS MEC Update All Members Safe 3-06-2026,03/06/2026,930,100%,76.24%,10.86%,0%,0%
+Kalitta Air,CKS MEC Update Negotiations Progress 2-27-2026,02/27/2026,930,100%,79.46%,3.87%,0%,0%
+Kalitta Air,CKS MEC Update: Meeting Clarification 3-15-2026,03/15/2026,927,100%,61.38%,0.22%,0%,0%
+Kalitta Air,CKS Safety Update 2-25-2026,02/25/2026,931,100%,75.4%,0%,0%,0%
 Kalitta Air,CKS Safety Update Israel Ozone 777ERSF 2-18-2026,02/18/2026,924,100%,49.24%,0.43%,0%,0.22%
+Kalitta Air,CKS TLV Safety,02/28/2026,928,100%,74.03%,0.11%,0%,0%
+Kalitta Air,CKS TLV Safety 2,02/28/2026,932,100%,73.07%,0%,0%,0%
+Kalitta Air,CKS TLV SAFETY 3 3-1-2026,03/01/2026,930,100%,75.81%,3.76%,0%,0.11%
+Kalitta Air,CKS TLV Safety FOUR 3-02-2026 2,03/02/2026,927,100%,74.54%,0.32%,0%,0%
+Calm Air,CMA - Retirement Notice 3/03/2026,03/03/2026,126,100%,76.98%,0.79%,0%,0%
+Calm Air,CMA MEC UPDATE 2/27/2026,02/27/2026,190,99.47%,70.9%,1.59%,0.53%,0%
 CommuteAir,CMT Contrail 2.17.26 - MEC Update,02/17/2026,443,100%,53.05%,6.55%,0%,0%
+CommuteAir,CMT Contrail 3.3.26 - MEC Update,03/03/2026,437,100%,67.96%,2.97%,0%,0%
 CommuteAir,CMT MEC Update - Townhall Reminder,02/19/2026,438,100%,50%,8.22%,0%,0%
 CommuteAir,CMT SECURITY COMMUNIQUE - 022426,02/24/2026,436,100%,70.87%,0.23%,0%,0%
 FedEx Express,Council 24 Message - 2/17/26,02/17/2026,419,100%,50.36%,8.59%,0%,0%
+FedEx Express,Council 79 Message - 3/4/26,03/04/2026,302,100%,76.82%,6.62%,0%,0%
+FedEx Express,Dangerous Goods Committee Message - 3/7/26,03/09/2026,4913,99.98%,76.45%,1.14%,0.02%,0%
+Hawaiian,Door Pay Audit and AKL/RAR/SYD Data,03/02/2026,1215,99.92%,79.16%,3.21%,0.08%,0%
+Hawaiian,Education: Outreach Efforts Opportunities,03/04/2026,1216,99.92%,79.34%,1.81%,0.08%,0%
+Endeavor Air,EDV - Sterile Cockpit Compliance Reminder,02/25/2026,1786,100%,76.88%,0.62%,0%,0%
+Endeavor Air,EDV : Hotel Delays and Rest Requirements,03/07/2026,1776,99.94%,77.13%,1.13%,0.06%,0.06%
 Endeavor Air,EDV Correction Com,02/20/2026,1786,99.94%,77.59%,0.56%,0.06%,0%
+Endeavor Air,EDV Hotline 260127,02/27/2026,1760,100%,76.02%,1.48%,0%,0.06%
 Endeavor Air,EDV Hotline 260220,02/20/2026,1786,99.94%,74.12%,0.67%,0.06%,0%
+Endeavor Air,EDV Hotline 260305,03/06/2026,1779,100%,80.78%,6.52%,0%,0.06%
+Endeavor Air,EDV Hotline 260313,03/13/2026,1777,100%,70.68%,0.45%,0%,0%
+Endeavor Air,EDV On Air with Chair 10 min reminder,03/03/2026,1756,100%,64.69%,5.92%,0%,0%
+Endeavor Air,EDV On Air With the Chair March 2 2026,03/03/2026,1755,100%,53.05%,3.59%,0%,0%
+Endeavor Air,EDV PBS Hotline - April Early Bid,03/04/2026,1757,99.94%,71.36%,1.2%,0.06%,0.06%
 Envoy Air,ENY-AP-01 – Chairman Welcome,03/06/2026,26,100%,92.31%,11.54%,0%,0%
 Envoy Air,ENY-AP-02 – Successful Training,03/09/2026,39,100%,84.62%,0%,0%,0%
 Envoy Air,ENY-AP-03 – Simulator Tips,03/09/2026,72,100%,87.5%,5.56%,0%,0%
@@ -31,19 +94,33 @@ Envoy Air,ENY-AP-06 – Local ALPA Structure,03/02/2026,31,100%,77.42%,25.81%,0%
 Envoy Air,ENY-AP-07 – ALPA National Structure,03/09/2026,31,100%,70.97%,0%,0%,0%
 Envoy Air,ENY-AP-09 – Volunteer!,03/09/2026,30,100%,83.33%,0%,0%,0%
 Envoy Air,ENY: 2026 Flow Pause,02/20/2026,2430,100%,76.75%,0.91%,0%,0%
+Envoy Air,ENY: ALPA Committee Expo Invite #1,02/26/2026,2440,99.96%,60.11%,0.49%,0.04%,0.08%
+Envoy Air,ENY: ALPA Committee Expo One Week Out,03/11/2026,2443,100%,49.77%,0.49%,0%,0%
+Envoy Air,ENY: ALPA Committee Expo Reminder #1,03/04/2026,2445,100%,68.83%,0.74%,0%,0.04%
+Envoy Air,ENY: FA Save the Date,03/10/2026,2445,100%,64.5%,0.41%,0%,0%
 Envoy Air,ENY: MEC Update: PVR and GDL Security Update,02/23/2026,2431,100%,75.36%,0.74%,0%,0.04%
+Envoy Air,ENY: Preparing for Envoy's Transition to PBS,02/27/2026,2441,99.92%,78.31%,11.48%,0.08%,0%
 Envoy Air,ENY: Winter 2026 Pilot Hour Part 1: 02.24.26,02/24/2026,2431,100%,76.92%,0.95%,0%,0.04%
 Envoy Air,ENY: Winter 2026 Pilot Hour Part 2: 03.03.26,03/03/2026,2443,100%,73.68%,1.27%,0%,0%
+Envoy Air,ENY_April_ Scheduling_Newsletter_03.10.26,03/12/2026,2442,100%,49.92%,6.31%,0%,0.04%
 ALPA National,FastRead National - 02/20/2026,02/21/2026,71382,99.93%,62.52%,1.89%,0.07%,0.05%
+ALPA National,FastRead National - 02/26/2026,02/26/2026,71439,99.98%,61.86%,0.71%,0.02%,0.05%
+ALPA National,FastRead National - 03/05/2026,03/05/2026,71311,99.98%,62.7%,1.54%,0.02%,0.03%
+ALPA National,FastRead National - 03/12/2026,03/12/2026,71358,99.95%,58.83%,1.64%,0.05%,0.02%
+ALPA National,FastRead Newsflash - 02/28/2026,02/28/2026,71350,99.95%,66.94%,0.09%,0.05%,0.03%
+Hawaiian,Fatigue: FDP Adjustments and Safety Culture,03/13/2026,1210,100%,72.56%,1.57%,0%,0%
 FedEx Express,FDX MEC FastRead - 2/17/26,02/18/2026,4929,100%,40.41%,2.54%,0%,0%
 FedEx Express,FDX MEC FastRead - 2/19/26,02/19/2026,4928,99.98%,45.57%,0.87%,0.02%,0%
+FedEx Express,FDX MEC FastRead - 2/27/26,02/27/2026,4919,99.92%,82.91%,30.13%,0.08%,0%
+FedEx Express,FDX MEC FastRead - 2/28/26,02/28/2026,4912,100%,81.45%,1.55%,0%,0%
+FedEx Express,FDX MEC FastRead - 3/3/26,03/03/2026,4915,100%,77.86%,0.92%,0%,0%
+FedEx Express,FDX MEC FastRead: TA Section 12 - 2/26/26,02/26/2026,4920,99.96%,85.03%,30.09%,0.04%,0%
 Frontier Airlines,FFT - Open Climb #1 - New Hire,02/19/2026,43,97.67%,66.67%,0%,2.33%,0%
 Frontier Airlines,FFT - Open Climb #11 - Contract 202,03/02/2026,36,100%,80.56%,2.78%,0%,2.78%
 Frontier Airlines,FFT - Open Climb #13 - Contract 301,03/02/2026,32,100%,75%,0%,0%,0%
 Frontier Airlines,FFT - Open Climb #14 - Committee Overview,03/09/2026,32,100%,78.13%,3.13%,0%,0%
 Frontier Airlines,FFT - Open Climb #2 - New Hire,03/02/2026,40,100%,90%,0%,0%,5%
 Frontier Airlines,FFT - Open Climb #2-10 - ALPA Insurace,03/04/2026,40,100%,80%,10%,0%,0%
-Frontier Airlines,FFT - Open Climb #22 - Contract 204,03/03/2026,5,100%,100%,0%,0%,0%
 Frontier Airlines,FFT - Open Climb #3 - Engage your Mentor,03/09/2026,70,100%,67.14%,0%,0%,0%
 Frontier Airlines,FFT - Open Climb #5 - New Hire,02/25/2026,42,100%,71.43%,14.29%,0%,2.38%
 Frontier Airlines,FFT - Open Climb #6 - How to Contact ALPA,03/02/2026,42,100%,80.95%,0%,0%,0%
@@ -51,12 +128,17 @@ Frontier Airlines,FFT - Open Climb #7 - New Hire - Contract 101,03/09/2026,42,10
 Frontier Airlines,FFT - Open Climb #9 - Contract 201,03/09/2026,74,100%,79.73%,2.7%,0%,0%
 Frontier Airlines,FFT - Open Climb - #12 - ALPA Benefits,03/01/2026,32,100%,81.25%,6.25%,0%,3.13%
 Frontier Airlines,FFT - Town Hall,02/18/2026,2240,100%,52.81%,15.8%,0%,0.13%
+Frontier Airlines,FFT Airport Sits 3-14-2026,03/14/2026,2249,100%,68.12%,0.09%,0%,0%
 Frontier Airlines,FFT Charles Schwab Message,02/14/2026,2246,100%,40.34%,2.18%,0%,0.04%
 Frontier Airlines,FFT Hotel 2-22-2026,02/23/2026,2281,100%,74.88%,0.22%,0%,0.09%
+Frontier Airlines,FFT Inside #16 3-5-2026,03/05/2026,2271,100%,74.24%,0.31%,0%,0.09%
 Frontier Airlines,FFT Inside Alpa #15 - ALPA PAC,02/23/2026,2278,100%,73.35%,0.92%,0%,0.09%
+Frontier Airlines,FFT Inside ALPA 17 3-12-2026,03/12/2026,6754,100%,68.3%,0.74%,0%,0.07%
 Frontier Airlines,FFT Jumpseat 2-19-2026,02/19/2026,2288,99.96%,56.54%,0.31%,0.04%,0%
 Frontier Airlines,FFT Live Stream 2-17-2026,02/17/2026,2246,100%,55.34%,15.23%,0%,0.09%
 Frontier Airlines,FFT Mexico 2-23-2026,02/23/2026,2277,100%,76.2%,0.26%,0%,0%
+Frontier Airlines,FFT Neg Note 2-27-2026,02/27/2026,2276,99.91%,76.87%,0.53%,0.09%,0.09%
+Frontier Airlines,FFT Neg Note 3-6-2026,03/06/2026,2265,99.96%,78.14%,0.57%,0.04%,0.04%
 Frontier Airlines,FFT PPS 2-19-2026,02/19/2026,2288,99.96%,58.24%,0.13%,0.04%,0.13%
 Frontier Airlines,FFT Town Hall 2-16-2026,02/16/2026,2247,100%,53.32%,14.11%,0%,0.13%
 Frontier Airlines,FFT Town Hall Recording 2-19-2026,02/19/2026,2287,99.96%,66.23%,11.85%,0.04%,0.09%
@@ -65,59 +147,173 @@ Flair Airlines,FLE MEC SECURITY ALERT 2/23/2026,02/23/2026,335,100%,76.42%,1.49%
 Flair Airlines,FLE MEC TOWN HALL LINK 2/18/2026,02/18/2026,333,100%,56.16%,16.22%,0%,0%
 Flair Airlines,FLE MEC UPDATE 2/16/2026,02/16/2026,336,100%,48.51%,0.6%,0%,0%
 Flair Airlines,FLE MEC UPDATE 2/20/2026,02/20/2026,335,100%,73.13%,0.3%,0%,0%
+Flair Airlines,FLE MEC UPDATE 2/27/2026,02/27/2026,337,100%,75.96%,2.37%,0%,0%
+Flair Airlines,FLE MEC UPDATE 3/06/3036,03/06/2026,340,99.71%,80.83%,0.59%,0.29%,0%
+Flair Airlines,FLE MEC UPDATE 3/13/2026,03/14/2026,340,100%,72.94%,0%,0%,0%
 Flair Airlines,FLE NEGOTIATIONS UPDATES 2/19/2026,02/19/2026,335,100%,59.7%,2.69%,0%,0%
+Flair Airlines,FLE NEGOTIATIONS UPDATES 3/12/2026,03/12/2026,338,100%,76.04%,0%,0%,0%
 Flair Airlines,FLE SAFETY ALERT 2/22/2026,02/22/2026,336,100%,78.27%,0%,0%,0%
 FedEx Express,Fly By Night - 2/18/26,02/18/2026,4929,100%,45.71%,11.2%,0%,0%
+FedEx Express,Fly By Night - 2/25/26,02/25/2026,4921,99.94%,77.55%,9.7%,0.06%,0%
+FedEx Express,Fly By Night - 3/5/26,03/05/2026,4916,100%,79.92%,29.29%,0%,0.02%
+Delta,FRMT Update – April 2026,03/11/2026,16178,99.99%,67.63%,10.38%,0.01%,0%
+ALPA National,From the President - 03/06/2026,03/06/2026,72596,99.99%,61.18%,1.18%,0.01%,0.04%
 ALPA National,From the President - 2/19/2026,02/19/2026,60683,99.98%,33.92%,0.05%,0.02%,0.09%
 Jazz Aviation,JAZ MEC Direct - Feb 18 2026,02/18/2026,1148,100%,60.63%,4.01%,0%,0%
+Jazz Aviation,JAZ MEC Direct - Feb 27 2026,02/27/2026,1156,99.91%,81.9%,7.88%,0.09%,0.09%
+Jazz Aviation,JAZ MEC Direct - March 12 2026,03/12/2026,1148,100%,81.01%,0.17%,0%,0%
+Jazz Aviation,JAZ MEC Direct - March 8 2026,03/08/2026,1148,100%,83.28%,0.7%,0%,0%
+JetBlue,JBU Comm Conn 2-25-2026,02/25/2026,4510,100%,72.55%,3.66%,0%,0%
 JetBlue,JBU Grievance 2-23-2026,02/23/2026,4512,99.98%,73.64%,0.71%,0.02%,0%
 JetBlue,JBU IROP 2-22-2026,02/22/2026,4513,99.98%,76.48%,3.17%,0.02%,0%
+JetBlue,JBU MEC Surveys 2-24-2026,02/24/2026,4511,100%,71.85%,4.01%,0%,0.02%
 JetBlue,JBU NC Update 2-20-2026,02/20/2026,4513,99.96%,73.93%,0.38%,0.04%,0.02%
+JetBlue,JBU Neg 3-5-2026,03/05/2026,4508,100%,73.74%,0.47%,0%,0%
+JetBlue,JBU P2P Call  3-13-2026,03/13/2026,182,100%,71.98%,3.3%,0%,0%
 JetBlue,JBU P2P Call 2-20-2026,02/20/2026,179,100%,82.12%,35.75%,0%,0%
+JetBlue,JBU p2p jtf 2-28-2026,02/28/2026,179,100%,75.98%,2.23%,0%,0%
+JetBlue,JBU Pairings 2-28-2026,02/28/2026,4511,99.98%,77.74%,0.8%,0.02%,0.02%
+JetBlue,JBU q1 day one 3-10-2026,03/10/2026,4509,100%,69.24%,1.04%,0%,0%
+JetBlue,jbu q1 day three 3-12-2026,03/12/2026,4506,99.96%,66.41%,0.31%,0.04%,0.02%
+JetBlue,jbu q1 day two 3-11-2026,03/11/2026,4511,99.96%,67.27%,0.44%,0.04%,0%
+JetBlue,JBU R&I 3-9-2026,03/09/2026,4508,100%,74.6%,2.88%,0%,0%
+JetBlue,JBU SSC 3-3-2026,03/03/2026,4511,100%,75.97%,1.06%,0%,0%
+JetBlue,JBU Weekly 2-27-2026,02/27/2026,4520,100%,73.83%,7.92%,0%,0%
 JetBlue,JBU Weekly Update 2-20-2026,02/20/2026,4512,99.96%,73.86%,6.63%,0.04%,0%
+JetBlue,JBU Weekly Update 3-13-2026,03/13/2026,4504,100%,63.94%,1.22%,0%,0%
+JetBlue,JBU Weekly Update 3-6-2026,03/06/2026,4508,100%,73.14%,3.82%,0%,0%
+Alaska Airlines,JNC Direct: Negotiations Update - March 4 2026,03/04/2026,4498,99.98%,78.19%,0.71%,0.02%,0.04%
+Spirit,Joint Company/JPWG Update,02/26/2026,2446,100%,78.13%,7.93%,0%,0.04%
+Kelowna Flightcraft,KFC MEC UPDATE 3/06/2026,03/06/2026,33,100%,69.7%,6.06%,0%,0%
 Air Canada,Las Vegas Golf Tournament 2026,02/17/2026,5519,100%,42.91%,4.55%,0%,0.02%
+Hawaiian,Legislative Affairs: Advocacy in Washington D.C.,03/07/2026,1213,99.92%,73.84%,1.73%,0.08%,0%
+Mesa Air Group,MAG Hotline 20260227,02/27/2026,526,100%,67.87%,3.42%,0%,0%
+Mesa Air Group,MAG Hotline 20260306,03/06/2026,525,100%,68.19%,7.62%,0%,0%
+Mesa Air Group,MAG Hotline 20260313,03/13/2026,523,100%,65.01%,2.68%,0%,0%
 Mesa Air Group,MAG Merger Update - February 19 2026,02/19/2026,527,100%,57.87%,1.52%,0%,0%
+Mesa Air Group,MAG Merger Update - March 6 2026,03/06/2026,527,100%,68.5%,1.52%,0%,0.19%
 Mesa Air Group,MAG Safety - Exercise Caution in Travel to Mexico,02/24/2026,525,100%,68.76%,2.67%,0%,0%
+Mesa Air Group,MAG Scheduling Committee - March Update,03/11/2026,524,100%,66.22%,1.15%,0%,0%
+Alaska Airlines,March Podcast 03-13-26,03/13/2026,3328,99.97%,66.4%,5.68%,0.03%,0%
 Delta,MEC Alert 26-04_Security_Update_Resources,02/23/2026,16162,100%,75.16%,3.79%,0%,0.01%
+Delta,MEC Alert 26-05_Payback_Days,03/02/2026,16130,99.99%,79.3%,0.92%,0.01%,0.01%
 Hawaiian,MEC Alert: Global Entry and TSA PreCheck Access,02/22/2026,1214,100%,80.56%,0.49%,0%,0%
+Delta,MEC Brief 26-03 - Year in Review 2025,03/04/2026,16127,99.99%,75.52%,2.56%,0.01%,0.01%
 Delta,MEC News - February 19 2026,02/19/2026,16166,99.97%,35.21%,10.25%,0.03%,0%
+Delta,MEC News - February 26 2026,02/26/2026,16137,99.99%,55.64%,4.92%,0.01%,0%
+Delta,MEC News - March 12 2026,03/12/2026,16218,99.99%,70.6%,10%,0.01%,0%
+Delta,MEC News - March 5 2026,03/05/2026,16132,100%,74.32%,9.03%,0%,0.01%
 Alaska Airlines,MEC Update 02-19-26,02/19/2026,3348,99.7%,63.24%,14.2%,0.3%,0%
+Alaska Airlines,MEC Update 03-12-26,03/12/2026,3329,99.94%,73.4%,5.62%,0.06%,0%
+Alaska Airlines,MEC Update 2-25-26 Security edition,02/25/2026,3346,99.94%,76.94%,1.7%,0.06%,0%
+United Airlines,MEC Update 2.28.26 - Security Committee Update,02/28/2026,17859,99.89%,73.25%,3.51%,0.11%,0.02%
+United Airlines,MEC Update 2.28.26 - TLV Security,02/28/2026,17854,99.89%,73.01%,1.28%,0.11%,0.02%
+United Airlines,MEC Update 3.3.26 - Special Meeting Update,03/03/2026,17852,99.98%,64.05%,3.22%,0.02%,0.04%
+United Airlines,MEC Update 3.5.26 - Pass Travel Update,03/09/2026,17906,99.99%,74.69%,3.29%,0.01%,0.01%
 United Airlines,MEC Update: Feb 25 R&I,02/24/2026,17856,99.99%,67.84%,0.59%,0.01%,0.04%
 Hawaiian,MEC Update: February 21 2026,02/21/2026,1214,99.84%,82.34%,16.83%,0.16%,0%
 United Airlines,MEC Update: February 22 2026 - NYC-WAS IRROPS,02/22/2026,17860,99.98%,75.24%,3.57%,0.02%,0.02%
+United Airlines,MEC Update: March 1 2026 - New Volunteers,03/01/2026,17852,99.98%,73.71%,0.63%,0.02%,0.03%
+Hawaiian,MEC Update: March 13 2026,03/13/2026,1210,100%,75.54%,8.68%,0%,0%
+Hawaiian,MEC Update: March 5 2026,03/05/2026,1218,99.92%,78.06%,3.94%,0.08%,0%
+Hawaiian,MEC Update: March 7 2026,03/07/2026,1216,99.92%,79.34%,7.08%,0.08%,0%
 United Airlines,MEC Weekly Update: February 19 2026,02/19/2026,17813,99.98%,53.14%,3.75%,0.02%,0.02%
 United Airlines,MEC Weekly Update: February 26 2026,02/26/2026,17850,99.99%,71.41%,6.29%,0.01%,0.03%
+United Airlines,MEC Weekly Update: March 12 2026,03/12/2026,17891,99.9%,68.12%,4.2%,0.1%,0.02%
+United Airlines,MEC Weekly Update: March 5 2026,03/06/2026,17910,99.97%,70.68%,7.05%,0.03%,0.02%
 Delta,MEC_Meeting_AUS_PUB_Event_MARCH_4_2026,03/03/2026,219,100%,72.6%,7.76%,0%,0%
 Alaska Airlines,Mexico Security Comm 02-23-26,02/23/2026,3346,99.97%,79.49%,1.32%,0.03%,0%
 Breeze Airways,MXY: ALPA All-Pilot Call Invite 02.17.26,02/17/2026,533,100%,37.9%,2.25%,0%,0%
+Breeze Airways,MXY: ALPA All-Pilot Call Invite 03.02.26,03/03/2026,543,100%,55.62%,3.31%,0%,0%
 Breeze Airways,MXY: ALPA All-Pilot Call Reminder 02.19.26,02/19/2026,538,100%,39.22%,3.16%,0%,0%
+Breeze Airways,MXY: ALPA All-Pilot Call Reminder 03.05.26,03/05/2026,544,100%,58.09%,2.57%,0%,0%
 Breeze Airways,MXY: From the Chairman: Feb. Update,02/20/2026,539,100%,62.34%,0.93%,0%,0%
+Breeze Airways,MXY: Propelling Breeze Newsletter March Edition #1,03/11/2026,544,100%,59.19%,4.41%,0%,0%
 Breeze Airways,MXY: Propelling Breeze Newsletter: Feb. Edition #2,02/24/2026,540,100%,61.85%,3.89%,0%,0%
 Breeze Airways,MXY: R&I Update 2 10 2026,03/02/2026,543,100%,65.56%,5.16%,0%,0%
 Breeze Airways,MXY: The Parley: Feb. Negotiations Update,02/19/2026,540,100%,48.7%,2.59%,0%,0%
+Spirit,NavBlue PBS Reminder (to be sent March 3rd),03/03/2026,2242,99.96%,75.81%,15.44%,0.04%,0%
 FedEx Express,Negotiating Committee Message - 2/14/26,02/14/2026,4932,99.98%,41.61%,1.28%,0.02%,0%
+FedEx Express,Negotiating Committee Message - 3/1/26,03/01/2026,4911,100%,85.14%,1.59%,0%,0%
+FedEx Express,Negotiating Committee Message - 3/11/26,03/11/2026,4911,99.98%,82.02%,1.38%,0.02%,0%
+Endeavor Air,Negotiations Update: EDV MEC Feb. 26,02/26/2026,1760,99.94%,78.79%,0.4%,0.06%,0.06%
+Alaska Airlines,New MEC officers Comm 02-27-26,02/27/2026,3348,99.94%,72.95%,0.3%,0.06%,0%
+Spirit,Pairing Analyzer Issue (3-7-26),03/07/2026,2222,100%,73.58%,0.77%,0%,0.05%
+Hawaiian,Pass Travel: Atmos Upgrade & Deadhead Updates,02/24/2026,1215,100%,80.33%,3.54%,0%,0%
 Hawaiian,Pass Travel: Deadheads,02/18/2026,1215,100%,54.98%,1.32%,0%,0%
 Hawaiian,Pay: Door Pay on Pay Statements,02/23/2026,1214,100%,80.81%,1.73%,0%,0%
 Hawaiian,Pay: PBP-Eligible Earnings and UltiPro,02/14/2026,1215,100%,48.48%,3.29%,0%,0%
 PAL Airlines,PBA MEC UPDATE 2/20/2026,02/20/2026,256,100%,66.02%,0.39%,0%,0%
+PAL Airlines,PBA MEC UPDATE 2/25/2026,02/25/2026,258,100%,67.44%,1.16%,0%,0%
 PAL Airlines,PBA SAFETY COMM 2/16/2026,02/17/2026,255,100%,50.2%,0.39%,0%,0%
+Alaska Airlines,PBS Comm 03-06-26,03/06/2026,3338,100%,75.43%,0.51%,0%,0.03%
+Endeavor Air,PBS Hotline April Regular Bid 2026,03/11/2026,1778,99.94%,71.07%,1.24%,0.06%,0%
 Piedmont,PDT Across the Table 2.17,02/17/2026,885,100%,53.67%,1.58%,0%,0%
+Piedmont,PDT Digest 260312,03/12/2026,892,100%,69.06%,3.03%,0%,0%
+Piedmont,PDT Gazette 260304,03/05/2026,895,100%,73.52%,8.38%,0%,0%
 Piedmont,PDT Gazette Feb. 19 2026,02/19/2026,897,100%,66.89%,11.59%,0%,0%
+Piedmont,PDT MEC Update - From the Chair March 2,03/02/2026,893,100%,74.13%,0.9%,0%,0%
+Piedmont,PDT Pilot Digest - Feb 26,02/26/2026,898,100%,74.61%,1.22%,0%,0%
+Porter,POE NN February 25,02/25/2026,921,99.89%,77.93%,0.65%,0.11%,0%
+Porter,POE Pilot Update - March 2 2026,03/02/2026,928,100%,77.16%,4.09%,0%,0%
 Porter,POE Urgent Update - February 22 2026 PVR ALERT,02/22/2026,922,99.89%,80.78%,1.41%,0.11%,0%
 FedEx Express,Positive Rate Weekly - 2/18/26,02/18/2026,4928,100%,42.25%,7.93%,0%,0%
+FedEx Express,Positive Rate Weekly - 2/24/26,02/24/2026,4923,99.94%,79.98%,8.31%,0.06%,0%
+FedEx Express,Positive Rate Weekly - 3/10/26,03/11/2026,4912,99.92%,77.04%,8.41%,0.08%,0%
+FedEx Express,Positive Rate Weekly - 3/4/26,03/04/2026,4915,100%,76.93%,6.69%,0%,0%
+Pascan (Custodianship),PSC MEC UPDATE 3/09/2026,03/09/2026,116,100%,66.38%,0%,0%,0%
+Pascan (Custodianship),PSC MEC UPDATE 3/11/2026,03/11/2026,116,100%,58.62%,1.72%,0%,0%
+PAL Airlines,PVL MEC Update 3/11/2026,03/11/2026,299,100%,67.89%,1.34%,0%,0%
+Hawaiian,R&I Q1 Newsletter: FSA/HRA Merger Contacts PMHP,03/06/2026,1223,99.92%,77.66%,6.96%,0.08%,0%
 FedEx Express,Safety Matters: Reports - 2/20/26,02/23/2026,4922,99.96%,77.52%,1.04%,0.04%,0%
+Sun Country,SCA - PBS Update March 11 2026,03/11/2026,703,99.86%,71.51%,0.57%,0.14%,0.14%
+Sun Country,SCA MEC Update - March 3 2026,03/03/2026,696,100%,79.02%,10.92%,0%,0%
 Sun Country,SCA MEC Update Feb. 17 2026,02/17/2026,699,100%,54.94%,5.87%,0%,0%
+Sun Country,SCA MEC Update Hotel Committee,03/05/2026,698,100%,74.93%,0.57%,0%,0%
 Sun Country,SCA Merger Update #2 - Feb. 23,02/23/2026,698,100%,76.5%,3.44%,0%,0%
+Sun Country,SCA- Notification and Grievance Update,02/27/2026,699,100%,77.25%,3.15%,0%,0%
 Endeavor Air,Scheduling Committee Update Feb. 20,02/20/2026,1787,99.94%,77.83%,0.78%,0.06%,0%
+Alaska Airlines,Scheduling Update 2-27-26,03/01/2026,3341,99.97%,78.38%,31.71%,0.03%,0.03%
 Hawaiian,Scheduling: March 717 Pairings & Sit Times,02/15/2026,1216,100%,44.16%,0.33%,0%,0%
 Air Canada,Security Committee - Feb 22 2026,02/22/2026,5519,100%,80.45%,0.38%,0%,0.02%
+Air Canada,Security Committee - Iran Update,02/28/2026,5540,100%,79.37%,0.23%,0%,0.02%
 FedEx Express,Security Committee Message - 2/23/26,02/23/2026,4922,99.96%,79.94%,3.43%,0.04%,0%
+FedEx Express,Security Committee Message - 2/28/26,02/28/2026,4912,100%,77.26%,0.63%,0%,0%
+FedEx Express,Security Committee Message - 3/7/26,03/07/2026,4911,100%,78.38%,0.92%,0%,0%
+Air Canada,Security Update - March 9,03/10/2026,5537,100%,76.76%,0.36%,0%,0%
+Alaska Airlines,Security Update 03-05-26,03/05/2026,3336,100%,74.73%,0.3%,0%,0%
+Alaska Airlines,SIO Comm 03-13-26,03/13/2026,3330,99.97%,75.97%,3.69%,0.03%,0%
+Spirit,SPA Chair Message RSA 3-13-2026,03/13/2026,2395,99.96%,77.99%,0.92%,0.04%,0%
 Spirit,SPA Chairman's Message 2-24-2026,02/24/2026,2447,100%,73.76%,0.82%,0%,0.04%
+Spirit,SPA Chairman's Message 3-10-2026,03/10/2026,2413,99.92%,73.62%,1.41%,0.08%,0%
+Spirit,SPA Crew Brief -- Positive Space,03/10/2026,2411,99.92%,73.18%,0.75%,0.08%,0%
+Spirit,SPA MEC Update Meeting Notice 2-27-2026,02/27/2026,2447,100%,76.83%,0.57%,0%,0%
+Spirit,SPA MEC Update Meeting Summary 3-12-2026,03/13/2026,2402,100%,73.65%,2.33%,0%,0%
 PAL Aerospace,SPR MEC Update 2/17/2026,02/18/2026,142,100%,46.48%,0.7%,0%,0%
+PAL Aerospace,SPR MEC Update 3/3/2026,03/03/2026,145,100%,60.69%,1.38%,0%,0%
+Envoy Air,Spring 2026 Junior Man Reminders,03/15/2026,2433,100%,67.28%,0.33%,0%,0%
 United Airlines,SSC Update: February 17 2026,02/17/2026,17811,99.98%,38.89%,2.91%,0.02%,0.01%
 Spirit,Status Page (2-18-26),02/18/2026,2474,99.96%,53.13%,6.11%,0.04%,0.08%
+Spirit,Status Page (2-25-26),02/25/2026,2449,100%,80.11%,6.66%,0%,0%
+Spirit,Status Page (3-11-26),03/11/2026,2415,100%,79.17%,10.97%,0%,0%
+Spirit,Status Page (3-4-26),03/04/2026,2439,99.96%,80.43%,24.41%,0.04%,0%
+Spirit,System Bids Move from FLICA to Crew Central,03/02/2026,2434,100%,76.79%,1.03%,0%,0%
 Air Transat,TSC - PVR Alert,02/22/2026,783,100%,84.04%,1.53%,0%,0%
+Air Transat,TSC CASC - Middle East Overview,03/03/2026,786,100%,83.72%,1.53%,0%,0%
 Air Transat,TSC Trans-Mission - 022026,02/20/2026,791,100%,85.46%,1.9%,0%,0%
+Air Transat,TSC Trans-Mission - 022726,02/27/2026,784,100%,85.08%,19.9%,0%,0%
+Air Transat,TSC Trans-Mission - 030626,03/06/2026,784,100%,84.18%,1.66%,0%,0%
+Air Transat,TSC Trans-Mission - 031326,03/13/2026,785,100%,82.04%,2.04%,0%,0%
+FedEx Express,Tundra Tidbits - 3/16/26,03/15/2026,299,100%,53.85%,5.69%,0%,0%
+Frontier Airlines,Upcoming Airport Sits,03/07/2026,2264,100%,74.12%,0.53%,0%,0%
 West Jet Encore,WEN MEC Update 2-17-26,02/17/2026,474,99.79%,60.25%,2.96%,0.21%,0%
 West Jet Encore,WEN MEC Update 2-22-26,02/22/2026,470,100%,77.87%,1.49%,0%,0%
+West Jet Encore,WEN MEC Update 3-10-26,03/11/2026,480,100%,68.13%,1.25%,0%,0%
+West Jet Encore,WEN MEC Update 3-4-26,03/04/2026,474,100%,75.95%,2.11%,0%,0%
 Western Global (Custodianship),WGN MEC UPDATE 2/20/2026,02/21/2026,171,98.83%,79.29%,4.14%,1.17%,0.59%
+Western Global (Custodianship),WGN MEC UPDATE 2/27/2026,02/27/2026,168,99.4%,71.86%,0.6%,0.6%,0.6%
+Western Global (Custodianship),WGN MEC UPDATE 3/06/2026,03/06/2026,171,100%,76.02%,0.58%,0%,0%
+Western Global (Custodianship),WGN MEC UPDATE 3/13/2026,03/13/2026,168,100%,73.81%,2.38%,0%,0%
+Wasaya,WSG CASC UPDATE 3/13/2026,03/13/2026,184,100%,63.04%,1.09%,0%,0%
+Wasaya,WSG MEC UPDATE 3/03/3036,03/03/2026,181,100%,69.61%,3.31%,0%,0%
+Air Canada,YUL Karting Family Awareness Event,03/06/2026,5537,100%,66.08%,0.16%,0%,0%
