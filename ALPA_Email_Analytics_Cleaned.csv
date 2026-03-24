@@ -1,361 +1,370 @@
 group_name,message,last_sent,sent,delivered%,opened%,clicked%,bounced%,opt_out%
-Alaska Airlines,123.45: JCBA Negotiations Update - Feb. 20 2026,02/20/2026,4511,99.93,79.21,1.33,0.07,0.07
-Alaska Airlines,123.45: JCBA Update Upcoming Events New Social,03/08/2026,4496,99.91,78.98,17.16,0.09,0.02
-West Jet Airlines,2026 - #11 - WestJet Special Update 2/26/2026,02/26/2026,2357,100.0,84.9,1.27,0.0,0.0
-West Jet Airlines,2026 - #12- WestJet Negotiating Update 3/6/26,03/09/2026,2358,100.0,88.17,46.14,0.0,0.0
-West Jet Airlines,2026 - #13 - WJA MEC Update 3/10/2026,03/11/2026,2354,100.0,79.82,20.14,0.0,0.0
-Air Canada,ACA MEC Fastread 27 February,02/27/2026,5526,100.0,77.61,0.54,0.0,0.02
-ALPA National,Air Line Pilot March 2026,03/11/2026,88396,99.81,52.15,2.03,0.19,0.07
+Alaska Airlines,123.45: JCBA Update Upcoming Events New Social,03/08/2026,4496,99.91,79.32,17.21,0.09,0.02
+West Jet Airlines,2026 - #11 - WestJet Special Update 2/26/2026,02/26/2026,2357,100.0,85.19,1.27,0.0,0.0
+West Jet Airlines,2026 - #12- WestJet Negotiating Update 3/6/26,03/09/2026,2358,100.0,88.42,46.48,0.0,0.0
+West Jet Airlines,2026 - #13 - WJA MEC Update 3/10/2026,03/11/2026,2354,100.0,81.78,20.43,0.0,0.0
+West Jet Airlines,2026 - #14 - WJA MEC Update 3/20/2026,03/20/2026,2353,99.96,80.53,19.13,0.04,0.04
+West Jet Airlines,2026 - #15- WestJet Special Update 3/23/2026,03/23/2026,2349,88.08,64.28,0.53,0.0,0.0
+Air Canada,ACA MEC Fastread 27 February,02/27/2026,5526,100.0,77.74,0.54,0.0,0.02
+ALPA National,Air Line Pilot March 2026,03/11/2026,88396,99.81,52.55,2.04,0.19,0.08
 Amerijet Airlines,AJT Neg Tracker 3-5-2026,03/05/2026,198,100.0,64.14,12.12,0.0,0.51
 Amerijet Airlines,AJT Sky Pirate 3-6-2026,03/06/2026,195,100.0,61.03,6.67,0.0,0.0
-ALPA National,AND  for Tuesday February 24 2026,02/24/2026,47695,99.97,57.81,1.51,0.03,0.09
-ALPA National,AND for Friday February 20 2026,02/20/2026,47622,99.96,58.29,1.78,0.04,0.09
-ALPA National,AND for Friday February 27 2026,02/27/2026,48345,99.96,56.72,2.15,0.04,0.08
-ALPA National,AND for Friday March 13 2026,03/13/2026,48234,99.99,53.62,2.39,0.01,0.04
-ALPA National,AND for Friday March 6 2026,03/06/2026,48348,99.99,55.38,2.43,0.01,0.06
-ALPA National,AND for Monday February 23 2026,02/23/2026,47627,99.97,57.41,2.27,0.03,0.09
-ALPA National,AND for Monday March 16 2026,03/16/2026,48217,99.98,53.07,2.41,0.02,0.02
-ALPA National,AND for Monday March 2 2026,03/02/2026,48301,99.99,57.01,2.38,0.01,0.07
-ALPA National,AND for Monday March 9 2026,03/09/2026,48302,99.99,55.54,1.97,0.01,0.06
-ALPA National,AND for Thursday February 19 2026,02/19/2026,47621,99.99,43.71,2.3,0.01,0.08
-ALPA National,AND for Thursday February 26 2026,02/26/2026,48378,99.99,56.65,2.11,0.01,0.1
-ALPA National,AND for Thursday March 19 2026,03/19/2026,48228,97.05,46.17,1.51,0.03,0.02
-ALPA National,AND for Thursday March 5 2026,03/05/2026,48230,99.99,55.2,1.46,0.01,0.06
-ALPA National,AND for Tuesday March 10 2026,03/10/2026,48292,99.98,54.57,1.16,0.02,0.05
-ALPA National,AND for Tuesday March 17 2026,03/17/2026,48222,99.98,51.86,1.71,0.02,0.02
-ALPA National,AND for Tuesday March 3 2026,03/03/2026,48269,99.99,55.62,1.02,0.01,0.08
-ALPA National,AND for Wednesday February 18 2026,02/18/2026,47598,99.99,31.12,2.18,0.01,0.09
-ALPA National,AND for Wednesday February 25 2026,02/25/2026,48399,99.99,56.63,1.82,0.01,0.11
-ALPA National,AND for Wednesday March 11 2026,03/11/2026,48245,99.97,53.38,2.35,0.03,0.04
-ALPA National,AND for Wednesday March 18 2026,03/18/2026,48217,99.98,50.71,1.45,0.02,0.03
-ALPA National,AND for Wednesday March 4 2026,03/04/2026,48248,99.99,54.71,1.22,0.01,0.07
-PSA Airlines,April 2026 Bid Package,03/06/2026,2023,100.0,71.33,0.84,0.0,0.1
-PSA Airlines,April 2026 FO Re-award,03/16/2026,2011,100.0,70.56,0.94,0.0,0.0
-FedEx Express,April 2026 SIG Notes - 3/9/26,03/09/2026,4912,99.98,83.87,44.13,0.02,0.0
+ALPA National,AND  for Tuesday February 24 2026,02/24/2026,47695,99.97,57.93,1.51,0.03,0.09
+ALPA National,AND for Friday February 27 2026,02/27/2026,48345,99.96,56.91,2.15,0.04,0.08
+ALPA National,AND for Friday March 13 2026,03/13/2026,48234,99.99,54.83,2.4,0.01,0.05
+ALPA National,AND for Friday March 20 2026,03/20/2026,48245,99.98,52.11,2.03,0.02,0.04
+ALPA National,AND for Friday March 6 2026,03/06/2026,48348,99.99,55.66,2.43,0.01,0.07
+ALPA National,AND for Monday February 23 2026,02/23/2026,47627,99.97,57.55,2.28,0.03,0.09
+ALPA National,AND for Monday March 16 2026,03/16/2026,48217,99.98,53.45,2.42,0.02,0.03
+ALPA National,AND for Monday March 2 2026,03/02/2026,48301,99.99,57.2,2.38,0.01,0.07
+ALPA National,AND for Monday March 23 2026,03/23/2026,48231,97.19,48.29,3.92,0.01,0.02
+ALPA National,AND for Monday March 9 2026,03/09/2026,48302,99.99,55.89,1.97,0.01,0.06
+ALPA National,AND for Thursday February 26 2026,02/26/2026,48378,99.99,56.81,2.11,0.01,0.1
+ALPA National,AND for Thursday March 19 2026,03/19/2026,48228,99.86,52.44,1.72,0.14,0.03
+ALPA National,AND for Thursday March 5 2026,03/05/2026,48230,99.99,55.45,1.47,0.01,0.06
+ALPA National,AND for Tuesday March 10 2026,03/10/2026,48292,99.98,54.94,1.16,0.02,0.06
+ALPA National,AND for Tuesday March 17 2026,03/17/2026,48222,99.98,52.8,1.74,0.02,0.03
+ALPA National,AND for Tuesday March 3 2026,03/03/2026,48269,99.99,55.83,1.03,0.01,0.08
+ALPA National,AND for Wednesday February 25 2026,02/25/2026,48399,99.99,56.78,1.82,0.01,0.11
+ALPA National,AND for Wednesday March 11 2026,03/11/2026,48245,99.97,54.72,2.36,0.03,0.04
+ALPA National,AND for Wednesday March 18 2026,03/18/2026,48217,99.98,52.91,1.49,0.02,0.04
+ALPA National,AND for Wednesday March 4 2026,03/04/2026,48248,99.99,54.94,1.22,0.01,0.07
+PSA Airlines,April 2026 Bid Package,03/06/2026,2023,100.0,71.58,0.84,0.0,0.1
+PSA Airlines,April 2026 FO Re-award,03/16/2026,2011,100.0,70.86,0.94,0.0,0.0
+FedEx Express,April 2026 SIG Notes - 3/9/26,03/09/2026,4912,99.98,84.08,44.23,0.02,0.0
 Air Wisconsin (Custodianship),ARW -- Bidding Correction 260227,02/27/2026,633,99.84,67.88,1.42,0.16,0.16
 Air Wisconsin (Custodianship),ARW -- Final Recall announcement 260226,02/26/2026,634,100.0,71.45,3.0,0.0,0.0
-Air Transport Int'l,ATI -- DFW Roadshow 260318,03/18/2026,537,100.0,59.96,1.68,0.0,0.0
-Air Transport Int'l,ATI -- DFW show and virtual Q and A,03/17/2026,538,100.0,69.14,13.2,0.0,0.0
-Air Transport Int'l,ATI -- FACT Team comm 260310,03/12/2026,546,100.0,76.01,6.96,0.0,0.0
-Air Transport Int'l,ATI -- MEC TA Vote 260306,03/06/2026,547,100.0,83.36,3.84,0.0,0.0
-Air Transport Int'l,ATI -- post road show thanks 260310,03/10/2026,551,100.0,82.21,21.05,0.0,0.0
-Air Transport Int'l,ATI -- Road Show Updates 260312,03/12/2026,542,100.0,71.59,1.85,0.0,0.0
+Spirit,ASAP Safety Spotlight #3,03/20/2026,2137,99.91,67.07,1.22,0.09,0.09
+Air Transport Int'l,ATI -- DFW Roadshow 260318,03/18/2026,537,100.0,61.27,2.23,0.0,0.0
+Air Transport Int'l,ATI -- DFW show and virtual Q and A,03/17/2026,538,100.0,69.89,13.38,0.0,0.0
+Air Transport Int'l,ATI -- FACT Team comm 260310,03/12/2026,546,100.0,77.84,7.14,0.0,0.0
+Air Transport Int'l,ATI -- LGA Accident 260323,03/23/2026,536,99.07,64.97,0.38,0.0,0.0
+Air Transport Int'l,ATI -- MEC TA Vote 260306,03/06/2026,547,100.0,83.73,3.84,0.0,0.0
+Air Transport Int'l,ATI -- post road show thanks 260310,03/10/2026,551,100.0,82.58,21.6,0.0,0.0
+Air Transport Int'l,ATI -- Road Show Updates 260312,03/12/2026,542,100.0,72.51,2.03,0.0,0.0
 Air Transport Int'l,ATI -- Skypointer 260227,02/28/2026,547,100.0,71.48,2.19,0.0,0.0
 Air Transport Int'l,ATI -- Skypointer 260303,03/03/2026,546,100.0,82.78,2.93,0.0,0.0
-Air Transport Int'l,ATI -- TA Announcement 260304,03/04/2026,552,100.0,85.87,5.25,0.0,0.0
-Air Transport Int'l,ATI -- TA Executive Summary 260309,03/09/2026,548,100.0,92.88,80.29,0.0,0.0
-Air Transport Int'l,ATI -- TA Voting Now Open 260317,03/18/2026,539,100.0,76.44,33.58,0.0,0.19
+Air Transport Int'l,ATI -- TA Announcement 260304,03/04/2026,552,100.0,86.05,5.62,0.0,0.0
+Air Transport Int'l,ATI -- TA Executive Summary 260309,03/09/2026,548,100.0,93.07,80.29,0.0,0.0
+Air Transport Int'l,ATI -- TA Voting Now Open 260317,03/18/2026,539,100.0,78.85,38.22,0.0,0.19
 Air Transport Int'l,ATI -- Update 260224,02/25/2026,551,100.0,79.49,3.45,0.0,0.0
+Air Transport Int'l,ATI -- Virtual Q&A Online 260322,03/23/2026,540,93.15,60.64,23.66,0.0,0.0
 Air Transport Int'l,ATI -- Virtual Roadshow Signup 260310,03/09/2026,547,100.0,84.83,45.89,0.0,0.0
-Air Transport Int'l,ATI Skypointer 2.21.26 - Negotiations Update,02/21/2026,552,100.0,83.7,4.89,0.0,0.0
-Air Transport Int'l,ATI TA -- website & full-language TA 260310,03/10/2026,546,100.0,83.33,7.69,0.0,0.0
-Hawaiian,CASC: Smoke/Fumes Guidance,03/11/2026,1213,99.84,76.47,1.4,0.16,0.0
-Delta,Chairman's Letter - March 13 2026,03/13/2026,16217,99.99,72.67,0.43,0.01,0.0
-PSA Airlines,Chairman's Update - 2/20/2026,02/20/2026,2019,99.9,72.14,2.48,0.1,0.15
-PSA Airlines,Chairman's Update - 2/27/2026,02/27/2026,2057,100.0,73.51,0.58,0.0,0.19
+Air Transport Int'l,ATI TA -- website & full-language TA 260310,03/10/2026,546,100.0,84.25,7.88,0.0,0.0
+Hawaiian,CASC: Smoke/Fumes Guidance,03/11/2026,1213,99.84,77.62,1.49,0.16,0.0
+Delta,Chairman's Letter - March 13 2026,03/13/2026,16217,99.99,74.02,0.43,0.01,0.0
+PSA Airlines,Chairman's Update - 2/27/2026,02/27/2026,2057,100.0,73.75,0.58,0.0,0.19
+PSA Airlines,Chairman's Update - 3/20/2026,03/20/2026,2017,100.0,69.86,0.4,0.0,0.0
 Cargo Jet,CJT MEC Chronicle March 2026,03/06/2026,549,100.0,68.85,4.55,0.0,0.0
-Cargo Jet,CJT MEC Update 2/17/2026,02/27/2026,542,100.0,73.8,7.93,0.0,0.0
-Cargo Jet,CJT MEC Update 2/18/2026,02/18/2026,532,100.0,60.34,5.64,0.0,0.0
+Cargo Jet,CJT MEC Update 2/17/2026,02/27/2026,542,100.0,73.99,7.93,0.0,0.0
 Cargo Jet,CJT MEC Update 2/23/2026,02/23/2026,531,100.0,74.01,1.13,0.0,0.0
-Cargo Jet,CJT Membership Committee Update 3/18/2026,03/18/2026,539,100.0,68.65,2.04,0.0,0.0
-Cargo Jet,CJT Negotiating Committee Update 3/17/2026,03/17/2026,544,100.0,71.88,7.72,0.0,0.18
+Cargo Jet,CJT MEC Update 3/23/2026,03/23/2026,542,84.87,58.7,0.65,0.0,0.0
+Cargo Jet,CJT Membership Committee Update 3/18/2026,03/18/2026,539,100.0,71.43,2.23,0.0,0.0
+Cargo Jet,CJT Negotiating Committee Update 3/17/2026,03/17/2026,544,100.0,72.79,7.9,0.0,0.18
 Cargo Jet,CJT Security Update 2/22/2026,02/22/2026,531,100.0,75.52,0.94,0.0,0.0
-Kalitta Air,CKS All-PIlot Call Final Reminder,03/19/2026,919,96.95,58.7,9.88,0.11,0.0
-Kalitta Air,CKS All-Pilot Call March 19 3-17-2026,03/17/2026,937,100.0,69.37,1.07,0.0,0.0
-Kalitta Air,CKS MEC Middle East FIVE 3-03-2026,03/03/2026,927,100.0,72.71,0.11,0.0,0.0
-Kalitta Air,CKS MEC Update 2-20-2026 Where We Stand,02/20/2026,924,100.0,78.9,5.63,0.0,0.0
-Kalitta Air,CKS MEC Update 3-13-2026,03/13/2026,930,100.0,75.81,0.65,0.0,0.0
-Kalitta Air,CKS MEC Update All Members Safe 3-06-2026,03/06/2026,930,100.0,76.88,10.86,0.0,0.0
-Kalitta Air,CKS MEC Update All-Pilot Call Reminder 2 3-18-2026,03/18/2026,921,99.89,66.52,2.72,0.11,0.11
-Kalitta Air,CKS MEC Update Negotiations Progress 2-27-2026,02/27/2026,930,100.0,79.68,3.98,0.0,0.0
+Kalitta Air,CKS All-PIlot Call Final Reminder,03/19/2026,919,99.89,65.03,9.91,0.11,0.0
+Kalitta Air,CKS All-Pilot Call March 19 3-17-2026,03/17/2026,937,100.0,70.12,1.17,0.0,0.0
+Kalitta Air,CKS MEC Middle East FIVE 3-03-2026,03/03/2026,927,100.0,72.82,0.11,0.0,0.0
+Kalitta Air,CKS MEC Update 3-13-2026,03/13/2026,930,100.0,76.77,0.65,0.0,0.0
+Kalitta Air,CKS MEC Update 3-20-2026,03/20/2026,919,100.0,73.78,7.94,0.0,0.0
+Kalitta Air,CKS MEC Update All Members Safe 3-06-2026,03/06/2026,930,100.0,77.42,10.86,0.0,0.0
+Kalitta Air,CKS MEC Update All-Pilot Call Reminder 2 3-18-2026,03/18/2026,921,99.89,68.15,2.72,0.11,0.11
+Kalitta Air,CKS MEC Update LGA Accident 3-23-2026,03/23/2026,918,97.06,63.86,0.22,0.0,0.0
+Kalitta Air,CKS MEC Update Negotiations Progress 2-27-2026,02/27/2026,930,100.0,79.78,4.19,0.0,0.0
 Kalitta Air,CKS MEC Update: Meeting Clarification 3-15-2026,03/15/2026,927,100.0,76.38,0.22,0.0,0.0
-Kalitta Air,CKS Safety Update 2-25-2026,02/25/2026,931,100.0,75.51,0.0,0.0,0.0
-Kalitta Air,CKS Safety Update Israel Ozone 777ERSF 2-18-2026,02/18/2026,924,100.0,49.68,0.43,0.0,0.22
-Kalitta Air,CKS TLV Safety,02/28/2026,928,100.0,74.25,0.11,0.0,0.0
-Kalitta Air,CKS TLV Safety 2,02/28/2026,932,100.0,73.18,0.0,0.0,0.0
-Kalitta Air,CKS TLV SAFETY 3 3-1-2026,03/01/2026,930,100.0,76.02,3.76,0.0,0.11
+Kalitta Air,CKS Safety Update 2-25-2026,02/25/2026,931,100.0,75.83,0.0,0.0,0.0
+Kalitta Air,CKS TLV Safety,02/28/2026,928,100.0,74.57,0.11,0.0,0.0
+Kalitta Air,CKS TLV Safety 2,02/28/2026,932,100.0,73.39,0.0,0.0,0.0
+Kalitta Air,CKS TLV SAFETY 3 3-1-2026,03/01/2026,930,100.0,76.34,3.76,0.0,0.11
 Kalitta Air,CKS TLV Safety FOUR 3-02-2026 2,03/02/2026,927,100.0,74.87,0.32,0.0,0.0
 Calm Air,CMA - Retirement Notice 3/03/2026,03/03/2026,126,100.0,76.98,0.79,0.0,0.0
+Calm Air,CMA MEC SPECIAL UPDATE 3/23/2026,03/23/2026,188,96.81,58.24,1.1,0.0,0.0
 Calm Air,CMA MEC UPDATE 2/27/2026,02/27/2026,190,99.47,71.43,1.59,0.53,0.0
-CommuteAir,CMT Contrail 3.17.26 - MEC Update,03/17/2026,450,100.0,64.0,8.89,0.0,0.22
-CommuteAir,CMT Contrail 3.3.26 - MEC Update,03/03/2026,437,100.0,68.42,2.97,0.0,0.0
-CommuteAir,CMT MEC Update - Townhall Reminder,02/19/2026,438,100.0,50.46,8.22,0.0,0.0
-CommuteAir,CMT MEC Update 3.19.26 - VC Resignation,03/19/2026,447,98.66,56.01,1.59,0.0,0.0
+CommuteAir,CMT Contrail 3.17.26 - MEC Update,03/17/2026,450,100.0,65.56,10.0,0.0,0.22
+CommuteAir,CMT Contrail 3.3.26 - MEC Update,03/03/2026,437,100.0,68.65,2.97,0.0,0.0
+CommuteAir,CMT MEC Update 3.19.26 - VC Resignation,03/19/2026,447,99.55,62.25,1.57,0.45,0.0
 CommuteAir,CMT SECURITY COMMUNIQUE - 022426,02/24/2026,436,100.0,71.1,0.23,0.0,0.0
-FedEx Express,Council 24 Message - 3/16/26,03/16/2026,417,100.0,77.94,2.16,0.0,0.24
-FedEx Express,Council 26 Message - 3/16/26,03/16/2026,1297,100.0,78.87,5.78,0.0,0.0
-FedEx Express,Council 26 Message - 3/19/26,03/19/2026,1296,100.0,70.06,7.64,0.0,0.0
-FedEx Express,Council 500 Message - 3/17/26,03/17/2026,204,100.0,79.9,4.9,0.0,0.0
+FedEx Express,Council 24 Message - 3/16/26,03/16/2026,417,100.0,78.18,2.16,0.0,0.24
+FedEx Express,Council 26 Message - 3/16/26,03/16/2026,1297,100.0,79.03,5.86,0.0,0.0
+FedEx Express,Council 26 Message - 3/19/26,03/19/2026,1296,100.0,76.7,7.72,0.0,0.0
+FedEx Express,Council 500 Message - 3/17/26,03/17/2026,204,100.0,81.37,5.39,0.0,0.0
+FedEx Express,Council 500 Message - 3/23/26,03/23/2026,203,92.61,68.09,2.13,0.0,0.0
 FedEx Express,Council 79 Message - 3/4/26,03/04/2026,302,100.0,77.15,6.62,0.0,0.0
-FedEx Express,Dangerous Goods Committee Message - 3/7/26,03/09/2026,4913,99.98,77.52,1.14,0.02,0.0
-Hawaiian,Door Pay Audit and AKL/RAR/SYD Data,03/02/2026,1215,99.92,79.57,3.29,0.08,0.0
-Hawaiian,Education: Outreach Efforts Opportunities,03/04/2026,1216,99.92,79.42,1.81,0.08,0.0
-Endeavor Air,EDV - Sterile Cockpit Compliance Reminder,02/25/2026,1786,100.0,77.16,0.62,0.0,0.0
-Endeavor Air,EDV : Hotel Delays and Rest Requirements,03/07/2026,1776,99.94,78.03,1.18,0.06,0.06
-Endeavor Air,EDV Correction Com,02/20/2026,1786,99.94,77.65,0.56,0.06,0.0
-Endeavor Air,EDV Hotline 260127,02/27/2026,1760,100.0,76.25,1.48,0.0,0.06
-Endeavor Air,EDV Hotline 260220,02/20/2026,1786,99.94,74.23,0.67,0.06,0.0
-Endeavor Air,EDV Hotline 260305,03/06/2026,1779,100.0,81.06,6.58,0.0,0.06
-Endeavor Air,EDV Hotline 260313,03/13/2026,1777,100.0,72.48,0.45,0.0,0.0
-Endeavor Air,EDV On Air with Chair 10 min reminder,03/03/2026,1756,100.0,64.92,5.98,0.0,0.0
-Endeavor Air,EDV On Air With the Chair March 2 2026,03/03/2026,1755,100.0,53.5,3.59,0.0,0.0
-Endeavor Air,EDV PBS Hotline - April Early Bid,03/04/2026,1757,99.94,71.64,1.2,0.06,0.06
-Endeavor Air,EDV Vacancy Notice 26-02,03/17/2026,1774,99.94,74.79,19.51,0.06,0.0
-Envoy Air,ENY Negotiating Committee: Survey Open 03.16.26,03/16/2026,2434,100.0,77.86,37.63,0.0,0.04
-Envoy Air,ENY-AP-01 – Chairman Welcome,03/06/2026,20,100.0,95.0,5.0,0.0,0.0
+FedEx Express,Dangerous Goods Committee Message - 3/7/26,03/09/2026,4913,99.98,77.85,1.14,0.02,0.0
+Hawaiian,Door Pay Audit and AKL/RAR/SYD Data,03/02/2026,1215,99.92,80.07,3.46,0.08,0.0
+Hawaiian,Education: Outreach Efforts Opportunities,03/04/2026,1216,99.92,79.67,1.81,0.08,0.0
+Endeavor Air,EDV - LGA Runway Collision,03/23/2026,1783,98.82,70.03,0.4,0.0,0.0
+Endeavor Air,EDV - Sterile Cockpit Compliance Reminder,02/25/2026,1786,100.0,77.38,0.62,0.0,0.0
+Endeavor Air,EDV : Hotel Delays and Rest Requirements,03/07/2026,1776,99.94,78.25,1.18,0.06,0.06
+Endeavor Air,EDV Hotline 260127,02/27/2026,1760,100.0,76.31,1.48,0.0,0.06
+Endeavor Air,EDV Hotline 260305,03/06/2026,1779,100.0,81.23,6.58,0.0,0.06
+Endeavor Air,EDV Hotline 260313,03/13/2026,1777,100.0,73.61,0.51,0.0,0.0
+Endeavor Air,EDV Hotline 260319,03/20/2026,1783,100.0,71.96,1.4,0.0,0.0
+Endeavor Air,EDV On Air with Chair 10 min reminder,03/03/2026,1756,100.0,65.09,5.98,0.0,0.0
+Endeavor Air,EDV On Air With the Chair March 2 2026,03/03/2026,1755,100.0,53.79,3.65,0.0,0.0
+Endeavor Air,EDV PBS Hotline - April Early Bid,03/04/2026,1757,99.94,71.87,1.2,0.06,0.06
+Endeavor Air,EDV Vacancy Notice 26-02,03/17/2026,1774,99.94,75.69,19.91,0.06,0.0
+Envoy Air,ENY - LGA Runway Collision,03/23/2026,2430,98.35,65.4,0.38,0.04,0.0
+Envoy Air,ENY Negotiating Committee: Survey Open 03.16.26,03/16/2026,2434,100.0,78.72,40.63,0.0,0.04
+Envoy Air,ENY-AP-01 – Chairman Welcome,03/06/2026,19,100.0,94.74,5.26,0.0,0.0
 Envoy Air,ENY-AP-02 – Successful Training,03/09/2026,39,100.0,84.62,0.0,0.0,0.0
-Envoy Air,ENY-AP-03 – Simulator Tips,03/09/2026,72,100.0,87.5,5.56,0.0,0.0
-Envoy Air,ENY-AP-04 - IOE Tips and Tricks,03/09/2026,89,100.0,88.76,4.49,0.0,2.25
-Envoy Air,ENY-AP-05 - ALPA Services Available,02/23/2026,19,100.0,89.47,0.0,0.0,0.0
+Envoy Air,ENY-AP-03 – Simulator Tips,03/23/2026,86,100.0,84.88,4.65,0.0,0.0
+Envoy Air,ENY-AP-04 - IOE Tips and Tricks,03/23/2026,118,100.0,84.75,5.08,0.0,1.69
+Envoy Air,ENY-AP-05 - ALPA Services Available,03/23/2026,64,100.0,76.56,1.56,0.0,0.0
 Envoy Air,ENY-AP-06 – Local ALPA Structure,03/02/2026,19,100.0,84.21,10.53,0.0,0.0
 Envoy Air,ENY-AP-07 – ALPA National Structure,03/09/2026,31,100.0,74.19,0.0,0.0,0.0
 Envoy Air,ENY-AP-08 – Understanding Pay on Reserve,03/16/2026,31,100.0,74.19,0.0,0.0,0.0
-Envoy Air,ENY-AP-09 – Volunteer!,03/09/2026,30,100.0,86.67,0.0,0.0,0.0
-Envoy Air,ENY: 2026 Flow Pause,02/20/2026,2430,100.0,76.91,0.91,0.0,0.0
-Envoy Air,ENY: ALPA Committee Expo Invite #1,02/26/2026,2440,99.96,60.56,0.49,0.04,0.08
-Envoy Air,ENY: ALPA Committee Expo One Week Out,03/11/2026,2443,100.0,49.77,0.53,0.0,0.0
-Envoy Air,ENY: ALPA Committee Expo Reminder #1,03/04/2026,2445,100.0,69.69,0.74,0.0,0.04
-Envoy Air,ENY: ALPA Committee Expo Tomorrow,03/17/2026,2434,100.0,65.65,0.82,0.0,0.0
-Envoy Air,ENY: FA Save the Date,03/10/2026,2445,100.0,65.73,0.41,0.0,0.0
-Envoy Air,ENY: MEC Update: PVR and GDL Security Update,02/23/2026,2431,100.0,75.57,0.74,0.0,0.04
-Envoy Air,ENY: Preparing for Envoy's Transition to PBS,02/27/2026,2441,99.92,78.6,11.48,0.08,0.0
-Envoy Air,ENY: Winter 2026 Pilot Hour Part 1: 02.24.26,02/24/2026,2431,100.0,77.21,0.95,0.0,0.04
-Envoy Air,ENY: Winter 2026 Pilot Hour Part 2: 03.03.26,03/03/2026,2443,100.0,74.38,1.27,0.0,0.0
-Envoy Air,ENY_April_ Scheduling_Newsletter_03.10.26,03/12/2026,2442,100.0,50.82,6.88,0.0,0.04
-ALPA National,FastRead National - 02/20/2026,02/21/2026,71382,99.93,62.67,1.89,0.07,0.05
-ALPA National,FastRead National - 02/26/2026,02/26/2026,71439,99.98,62.11,0.71,0.02,0.05
-ALPA National,FastRead National - 03/05/2026,03/05/2026,71311,99.98,63.11,1.54,0.02,0.03
-ALPA National,FastRead National - 03/12/2026,03/12/2026,71358,99.95,59.48,1.7,0.05,0.02
-ALPA National,FastRead National - 03/19/2026,03/19/2026,71397,93.64,47.48,0.67,0.03,0.01
-ALPA National,FastRead Newsflash - 02/28/2026,02/28/2026,71350,99.95,67.14,0.09,0.05,0.03
-Hawaiian,Fatigue: FDP Adjustments and Safety Culture,03/13/2026,1210,100.0,75.04,1.74,0.0,0.0
-FedEx Express,FDX MEC FastRead - 2/17/26,02/18/2026,4928,100.0,40.81,2.52,0.0,0.0
-FedEx Express,FDX MEC FastRead - 2/19/26,02/19/2026,4928,99.98,45.93,0.87,0.02,0.0
-FedEx Express,FDX MEC FastRead - 2/27/26,02/27/2026,4919,99.92,82.93,30.13,0.08,0.0
-FedEx Express,FDX MEC FastRead - 2/28/26,02/28/2026,4912,100.0,81.64,1.55,0.0,0.0
-FedEx Express,FDX MEC FastRead - 3/3/26,03/03/2026,4915,100.0,78.17,0.92,0.0,0.0
-FedEx Express,FDX MEC FastRead: TA Section 12 - 2/26/26,02/26/2026,4920,99.96,85.16,30.09,0.04,0.0
-FedEx Express,FDX MEC FastRead: TA Section 25 - 3/16/26,03/16/2026,4892,100.0,83.57,29.6,0.0,0.0
-Frontier Airlines,FFT - Open Climb #1 - New Hire,02/19/2026,43,97.67,66.67,0.0,2.33,0.0
-Frontier Airlines,FFT - Open Climb #11 - Contract 202,03/02/2026,36,100.0,83.33,2.78,0.0,2.78
-Frontier Airlines,FFT - Open Climb #13 - Contract 301,03/02/2026,32,100.0,75.0,0.0,0.0,0.0
+Envoy Air,ENY-AP-09 – Volunteer!,03/23/2026,50,100.0,78.0,0.0,0.0,0.0
+Envoy Air,ENY: ALPA Committee Expo Invite #1,02/26/2026,2440,99.96,60.76,0.49,0.04,0.08
+Envoy Air,ENY: ALPA Committee Expo One Week Out,03/11/2026,2443,100.0,52.31,0.53,0.0,0.0
+Envoy Air,ENY: ALPA Committee Expo Reminder #1,03/04/2026,2445,100.0,69.78,0.74,0.0,0.04
+Envoy Air,ENY: ALPA Committee Expo Tomorrow,03/17/2026,2434,100.0,66.64,0.82,0.0,0.0
+Envoy Air,ENY: FA Save the Date,03/10/2026,2445,100.0,66.22,0.41,0.0,0.0
+Envoy Air,ENY: MEC Update: PVR and GDL Security Update,02/23/2026,2431,100.0,75.73,0.74,0.0,0.04
+Envoy Air,ENY: Preparing for Envoy's Transition to PBS,02/27/2026,2441,99.92,78.68,11.6,0.08,0.0
+Envoy Air,ENY: Winter 2026 Pilot Hour Part 1: 02.24.26,02/24/2026,2431,100.0,77.46,0.95,0.0,0.04
+Envoy Air,ENY: Winter 2026 Pilot Hour Part 2: 03.03.26,03/03/2026,2443,100.0,74.79,1.27,0.0,0.0
+Envoy Air,ENY_April_ Scheduling_Newsletter_03.10.26,03/12/2026,2442,100.0,53.11,7.17,0.0,0.04
+ALPA National,FastRead National - 02/26/2026,02/26/2026,71439,99.98,62.28,0.71,0.02,0.05
+ALPA National,FastRead National - 03/05/2026,03/05/2026,71311,99.98,63.36,1.54,0.02,0.03
+ALPA National,FastRead National - 03/12/2026,03/12/2026,71358,99.95,60.94,1.71,0.05,0.02
+ALPA National,FastRead National - 03/19/2026,03/19/2026,71397,99.13,57.79,0.96,0.87,0.02
+ALPA National,FastRead Newsflash - 02/28/2026,02/28/2026,71350,99.95,67.31,0.09,0.05,0.03
+Hawaiian,Fatigue: FDP Adjustments and Safety Culture,03/13/2026,1210,100.0,76.2,1.82,0.0,0.0
+FedEx Express,FDX MEC FastRead - 2/27/26,02/27/2026,4919,99.92,83.03,30.13,0.08,0.0
+FedEx Express,FDX MEC FastRead - 2/28/26,02/28/2026,4912,100.0,81.74,1.55,0.0,0.0
+FedEx Express,FDX MEC FastRead - 3/3/26,03/03/2026,4915,100.0,78.35,0.92,0.0,0.0
+FedEx Express,FDX MEC FastRead: Flight 80 2026,03/22/2026,4888,100.0,70.19,0.47,0.0,0.0
+FedEx Express,FDX MEC FastRead: TA Section 12 - 2/26/26,02/26/2026,4920,99.96,85.22,30.11,0.04,0.0
+FedEx Express,FDX MEC FastRead: TA Section 25 - 3/16/26,03/16/2026,4892,100.0,83.81,30.05,0.0,0.0
+Frontier Airlines,FFT - Open Climb #11 - Contract 202,03/23/2026,73,100.0,84.93,1.37,0.0,1.37
+Frontier Airlines,FFT - Open Climb #13 - Contract 301,03/23/2026,67,100.0,73.13,0.0,0.0,0.0
 Frontier Airlines,FFT - Open Climb #14 - Committee Overview,03/09/2026,32,100.0,81.25,3.13,0.0,0.0
+Frontier Airlines,FFT - Open Climb #15 - Contract 203,03/23/2026,32,100.0,78.13,0.0,0.0,0.0
 Frontier Airlines,FFT - Open Climb #2 - New Hire,03/02/2026,40,100.0,90.0,0.0,0.0,5.0
 Frontier Airlines,FFT - Open Climb #2-10 - ALPA Insurace,03/04/2026,40,100.0,80.0,10.0,0.0,0.0
 Frontier Airlines,FFT - Open Climb #3 - Engage your Mentor,03/09/2026,39,100.0,84.62,0.0,0.0,0.0
-Frontier Airlines,FFT - Open Climb #4 - New Hire,03/16/2026,69,100.0,78.26,0.0,0.0,0.0
-Frontier Airlines,FFT - Open Climb #5 - New Hire,03/18/2026,81,100.0,72.84,13.58,0.0,1.23
-Frontier Airlines,FFT - Open Climb #6 - How to Contact ALPA,03/02/2026,42,100.0,80.95,0.0,0.0,0.0
+Frontier Airlines,FFT - Open Climb #4 - New Hire,03/16/2026,69,100.0,79.71,0.0,0.0,0.0
+Frontier Airlines,FFT - Open Climb #5 - New Hire,03/18/2026,69,100.0,75.36,15.94,0.0,1.45
+Frontier Airlines,FFT - Open Climb #6 - How to Contact ALPA,03/23/2026,81,100.0,74.07,0.0,0.0,0.0
+Frontier Airlines,FFT - Open Climb #7 - New Hire - Contract 101,03/23/2026,14,100.0,64.29,0.0,0.0,0.0
 Frontier Airlines,FFT - Open Climb #8 - Orange Card,03/16/2026,41,100.0,85.37,0.0,0.0,0.0
 Frontier Airlines,FFT - Open Climb #9 - Contract 201,03/09/2026,38,100.0,81.58,0.0,0.0,0.0
-Frontier Airlines,FFT - Open Climb - #12 - ALPA Benefits,03/01/2026,32,100.0,81.25,6.25,0.0,3.13
-Frontier Airlines,FFT - Town Hall,02/18/2026,2240,100.0,52.95,15.8,0.0,0.13
-Frontier Airlines,FFT Airport Sits 3-14-2026,03/14/2026,2249,100.0,71.41,0.09,0.0,0.04
+Frontier Airlines,FFT - Open Climb - #12 - ALPA Benefits,03/22/2026,67,100.0,73.13,7.46,0.0,1.49
+Frontier Airlines,FFT Airport Sits 3-14-2026,03/14/2026,2249,100.0,72.57,0.13,0.0,0.04
 Frontier Airlines,FFT Hotel 2-22-2026,02/23/2026,2281,100.0,75.05,0.22,0.0,0.13
-Frontier Airlines,FFT Inside #16 3-5-2026,03/05/2026,2271,100.0,74.55,0.31,0.0,0.13
-Frontier Airlines,FFT Inside Alpa #15 - ALPA PAC,02/23/2026,2278,100.0,73.53,0.92,0.0,0.13
-Frontier Airlines,FFT Inside ALPA 17 3-12-2026,03/12/2026,6754,100.0,69.04,0.78,0.0,0.09
-Frontier Airlines,FFT Inside ALPA 3-19-2026,03/19/2026,2247,97.69,56.67,0.09,0.0,0.0
-Frontier Airlines,FFT JP Morgan 3-17-2026,03/17/2026,2249,100.0,76.17,22.45,0.0,0.04
-Frontier Airlines,FFT Jumpseat 2-19-2026,02/19/2026,2288,99.96,56.89,0.35,0.04,0.0
-Frontier Airlines,FFT Mexico 2-23-2026,02/23/2026,2277,100.0,76.33,0.26,0.0,0.0
-Frontier Airlines,FFT Neg Note 2-27-2026,02/27/2026,2276,99.91,77.09,0.53,0.09,0.13
-Frontier Airlines,FFT Neg Note 3-6-2026,03/06/2026,2265,99.96,78.49,0.57,0.04,0.09
-Frontier Airlines,FFT Operations 3-16-2026,03/16/2026,2249,100.0,74.3,0.18,0.0,0.04
-Frontier Airlines,FFT Operations Bulletin 3-18-2026,03/18/2026,2248,100.0,69.08,2.94,0.0,0.0
-Frontier Airlines,FFT PPS 2-19-2026,02/19/2026,2288,99.96,58.59,0.13,0.04,0.13
-Frontier Airlines,FFT Town Hall Recording 2-19-2026,02/19/2026,2287,99.96,66.62,11.85,0.04,0.09
-Flair Airlines,FLE MEC ALERT 2/19/2026,02/19/2026,334,100.0,64.37,0.9,0.0,0.0
+Frontier Airlines,FFT Inside #16 3-5-2026,03/05/2026,2271,100.0,74.81,0.31,0.0,0.13
+Frontier Airlines,FFT Inside Alpa #15 - ALPA PAC,02/23/2026,2278,100.0,73.66,0.92,0.0,0.13
+Frontier Airlines,FFT Inside ALPA 17 3-12-2026,03/12/2026,6754,100.0,70.6,0.78,0.0,0.1
+Frontier Airlines,FFT Inside ALPA 3-19-2026,03/19/2026,2247,99.64,68.47,0.13,0.36,0.0
+Frontier Airlines,FFT JP Morgan 3-17-2026,03/17/2026,2249,100.0,77.28,23.12,0.0,0.04
+Frontier Airlines,FFT Mexico 2-23-2026,02/23/2026,2277,100.0,76.46,0.26,0.0,0.0
+Frontier Airlines,FFT Neg Note 2-27-2026,02/27/2026,2276,99.91,77.13,0.53,0.09,0.13
+Frontier Airlines,FFT Neg Note 3-6-2026,03/06/2026,2265,99.96,78.67,0.57,0.04,0.09
+Frontier Airlines,FFT Operations 3-16-2026,03/16/2026,2249,100.0,74.57,0.22,0.0,0.04
+Frontier Airlines,FFT Operations Bulletin 3-18-2026,03/18/2026,2248,100.0,72.55,3.11,0.0,0.0
+Flair Airlines,FLE MEC 3/20/2026,03/20/2026,337,100.0,76.56,0.0,0.0,0.0
 Flair Airlines,FLE MEC SECURITY ALERT 2/23/2026,02/23/2026,335,100.0,76.42,1.49,0.0,0.0
-Flair Airlines,FLE MEC TOWN HALL LINK 2/18/2026,02/18/2026,333,100.0,56.76,16.22,0.0,0.0
-Flair Airlines,FLE MEC UPDATE 2/20/2026,02/20/2026,335,100.0,73.13,0.3,0.0,0.0
 Flair Airlines,FLE MEC UPDATE 2/27/2026,02/27/2026,337,100.0,76.26,2.37,0.0,0.0
-Flair Airlines,FLE MEC UPDATE 3/06/3036,03/06/2026,340,99.71,81.42,0.59,0.29,0.0
-Flair Airlines,FLE MEC UPDATE 3/13/2026,03/14/2026,340,100.0,76.47,0.0,0.0,0.0
-Flair Airlines,FLE NEGOTIATIONS UPDATES 2/19/2026,02/19/2026,335,100.0,60.0,2.69,0.0,0.0
-Flair Airlines,FLE NEGOTIATIONS UPDATES 3/12/2026,03/12/2026,338,100.0,76.33,0.0,0.0,0.0
+Flair Airlines,FLE MEC UPDATE 3/06/3036,03/06/2026,340,99.71,81.71,0.59,0.29,0.0
+Flair Airlines,FLE MEC UPDATE 3/13/2026,03/14/2026,340,100.0,77.65,0.0,0.0,0.0
+Flair Airlines,FLE MEC UPDATE 3/23/2026,03/23/2026,337,94.66,63.01,1.25,0.0,0.0
+Flair Airlines,FLE NEGOTIATIONS UPDATES 3/12/2026,03/12/2026,338,100.0,77.51,0.3,0.0,0.0
 Flair Airlines,FLE SAFETY ALERT 2/22/2026,02/22/2026,336,100.0,78.57,0.0,0.0,0.0
-FedEx Express,Fly By Night - 2/18/26,02/18/2026,4929,100.0,46.03,11.2,0.0,0.0
-FedEx Express,Fly By Night - 2/25/26,02/25/2026,4921,99.94,77.78,9.78,0.06,0.0
-FedEx Express,Fly By Night - 3/5/26,03/05/2026,4916,100.0,80.21,29.35,0.0,0.02
-Delta,FRMT Update – April 2026,03/11/2026,16178,99.99,67.63,10.49,0.01,0.0
-ALPA National,From the President - 03/06/2026,03/06/2026,72596,99.99,61.59,1.19,0.01,0.05
-ALPA National,From the President - 03/17/2026,03/17/2026,60602,99.98,47.62,0.31,0.02,0.04
-ALPA National,From the President - 2/19/2026,02/19/2026,60683,99.98,34.34,0.05,0.02,0.09
-PSA Airlines,IROPS Update - March 16 2026,03/16/2026,2010,100.0,71.39,0.25,0.0,0.0
-Jazz Aviation,JAZ MEC Direct - Feb 18 2026,02/18/2026,1148,100.0,60.71,4.01,0.0,0.0
-Jazz Aviation,JAZ MEC Direct - Feb 27 2026,02/27/2026,1156,99.91,82.08,7.88,0.09,0.09
-Jazz Aviation,JAZ MEC Direct - March 12 2026,03/12/2026,1148,100.0,81.62,0.17,0.0,0.0
-Jazz Aviation,JAZ MEC Direct - March 8 2026,03/08/2026,1148,100.0,84.15,0.7,0.0,0.0
-JetBlue,JBU ALPA Instructors 3-17-2026,03/17/2026,181,100.0,80.66,8.84,0.0,0.0
-JetBlue,JBU B6 ALPA Blast 3-19-2026,03/19/2026,4497,91.75,64.49,1.41,0.02,0.02
-JetBlue,JBU Comm Conn 2-25-2026,02/25/2026,4510,100.0,72.79,3.68,0.0,0.0
-JetBlue,JBU Grievance 2-23-2026,02/23/2026,4512,99.98,73.78,0.71,0.02,0.0
-JetBlue,JBU IROP 2-22-2026,02/22/2026,4513,99.98,76.62,3.24,0.02,0.0
-JetBlue,JBU MEC Surveys 2-24-2026,02/24/2026,4511,100.0,72.09,4.01,0.0,0.02
-JetBlue,JBU NC Update 2-20-2026,02/20/2026,4513,99.96,74.09,0.38,0.04,0.02
-JetBlue,JBU Neg 3-5-2026,03/05/2026,4508,100.0,74.02,0.47,0.0,0.0
+FedEx Express,Fly By Night - 2/25/26,02/25/2026,4921,99.94,77.84,9.8,0.06,0.0
+FedEx Express,Fly By Night - 3/5/26,03/05/2026,4916,100.0,80.35,29.39,0.0,0.02
+Delta,FRMT Update – April 2026,03/11/2026,16178,99.99,69.12,10.58,0.01,0.0
+ALPA National,From the President - 03/06/2026,03/06/2026,72596,99.99,61.86,1.19,0.01,0.05
+ALPA National,From the President - 03/17/2026,03/17/2026,60602,99.98,48.83,0.33,0.02,0.05
+ALPA National,From the President - 03/23/2026,03/23/2026,72554,95.57,61.7,0.1,0.01,0.01
+Delta,Hawaii Flooding - Resources Available to Pilots,03/23/2026,58,100.0,53.45,5.17,0.0,0.0
+PSA Airlines,IROPS Update - March 16 2026,03/16/2026,2010,100.0,71.74,0.25,0.0,0.0
+Jazz Aviation,JAZ MEC Direct - Feb 27 2026,02/27/2026,1156,99.91,82.08,7.97,0.09,0.09
+Jazz Aviation,JAZ MEC Direct - March 12 2026,03/12/2026,1148,100.0,83.1,0.26,0.0,0.0
+Jazz Aviation,JAZ MEC Direct - March 23,03/23/2026,1163,83.58,67.39,1.44,0.0,0.0
+Jazz Aviation,JAZ MEC Direct - March 23 2026,03/23/2026,1173,100.0,84.31,1.53,0.0,0.0
+Jazz Aviation,JAZ MEC Direct - March 8 2026,03/08/2026,1148,100.0,84.32,0.7,0.0,0.0
+JetBlue,JBU ALPA Instructors 3-17-2026,03/17/2026,181,100.0,81.22,9.39,0.0,0.0
+JetBlue,JBU B6 ALPA Blast 3-19-2026,03/19/2026,4497,99.98,74.51,1.85,0.02,0.02
+JetBlue,JBU Comm Conn 2-25-2026,02/25/2026,4510,100.0,73.04,3.68,0.0,0.0
+JetBlue,JBU Grievance 2-23-2026,02/23/2026,4512,99.98,73.93,0.71,0.02,0.0
+JetBlue,JBU IROP 2-22-2026,02/22/2026,4513,99.98,76.71,3.26,0.02,0.0
+JetBlue,JBU JTF 3-20-2026,03/20/2026,182,100.0,75.82,18.68,0.0,0.55
+JetBlue,JBU MEC Surveys 2-24-2026,02/24/2026,4511,100.0,72.29,4.01,0.0,0.02
+JetBlue,JBU Neg 3-5-2026,03/05/2026,4508,100.0,74.38,0.47,0.0,0.0
 JetBlue,JBU P2P Call  3-13-2026,03/13/2026,182,100.0,77.47,23.08,0.0,0.0
-JetBlue,JBU P2P Call 2-20-2026,02/20/2026,179,100.0,83.24,35.75,0.0,0.0
-JetBlue,JBU p2p call 3-19-2026,03/19/2026,182,98.35,67.6,26.26,0.0,0.0
-JetBlue,JBU p2p jtf 2-28-2026,02/28/2026,179,100.0,75.98,2.79,0.0,0.0
-JetBlue,JBU Pairings 2-28-2026,02/28/2026,4511,99.98,77.96,0.8,0.02,0.02
-JetBlue,JBU q1 day one 3-10-2026,03/10/2026,4509,100.0,70.44,1.06,0.0,0.0
-JetBlue,jbu q1 day three 3-12-2026,03/12/2026,4506,99.96,66.81,0.36,0.04,0.02
-JetBlue,jbu q1 day two 3-11-2026,03/11/2026,4511,99.96,67.27,0.44,0.04,0.0
-JetBlue,JBU R&I 3-9-2026,03/09/2026,4508,100.0,75.87,3.08,0.0,0.0
-JetBlue,JBU SSC 3-3-2026,03/03/2026,4511,100.0,76.35,1.06,0.0,0.0
-JetBlue,JBU Weekly 2-27-2026,02/27/2026,4520,100.0,74.03,7.94,0.0,0.0
-JetBlue,JBU Weekly Update 2-20-2026,02/20/2026,4512,99.96,74.06,6.65,0.04,0.0
-JetBlue,JBU Weekly Update 3-13-2026,03/13/2026,4504,100.0,66.05,1.47,0.0,0.0
-JetBlue,JBU Weekly Update 3-6-2026,03/06/2026,4508,100.0,73.62,3.9,0.0,0.0
-Alaska Airlines,JNC Direct: Negotiations Update - March 4 2026,03/04/2026,4498,99.98,78.43,0.71,0.02,0.04
-Spirit,Joint Company/JPWG Update,02/26/2026,2446,100.0,78.5,7.97,0.0,0.08
+JetBlue,JBU p2p call 3-19-2026,03/19/2026,182,100.0,76.37,25.82,0.0,0.0
+JetBlue,JBU p2p jtf 2-28-2026,02/28/2026,179,100.0,76.54,3.35,0.0,0.0
+JetBlue,JBU Pairings 2-28-2026,02/28/2026,4511,99.98,78.16,0.8,0.02,0.02
+JetBlue,JBU q1 day one 3-10-2026,03/10/2026,4509,100.0,70.79,1.06,0.0,0.0
+JetBlue,jbu q1 day three 3-12-2026,03/12/2026,4506,99.96,68.41,0.36,0.04,0.02
+JetBlue,jbu q1 day two 3-11-2026,03/11/2026,4511,99.96,68.75,0.44,0.04,0.0
+JetBlue,JBU R&I 3-9-2026,03/09/2026,4508,100.0,76.13,3.15,0.0,0.0
+JetBlue,JBU SSC 3-3-2026,03/03/2026,4511,100.0,76.55,1.06,0.0,0.0
+JetBlue,JBU Weekly 2-27-2026,02/27/2026,4520,100.0,74.16,7.94,0.0,0.0
+JetBlue,JBU Weekly Update 3-13-2026,03/13/2026,4504,100.0,67.61,1.53,0.0,0.0
+JetBlue,JBU Weekly Update 3-20-2026,03/20/2026,4496,99.98,71.72,4.81,0.02,0.0
+JetBlue,JBU Weekly Update 3-6-2026,03/06/2026,4508,100.0,73.89,3.9,0.0,0.0
+Alaska Airlines,JNC Direct: Negotiations Update - March 4 2026,03/04/2026,4498,99.98,78.81,0.73,0.02,0.04
+Spirit,Joint Company/JPWG Update,02/26/2026,2446,100.0,78.66,7.97,0.0,0.08
+Keewatin Air,KEW MEC Update 3/20/2026,03/20/2026,210,100.0,69.52,0.0,0.0,0.0
+Keewatin Air,KEW MEC Update 3/23/2026,03/23/2026,210,90.0,62.43,0.53,0.0,0.0
 Kelowna Flightcraft,KFC MEC UPDATE 3/06/2026,03/06/2026,33,100.0,69.7,6.06,0.0,0.0
-Hawaiian,Legislative Affairs: Advocacy in Washington D.C.,03/07/2026,1213,99.92,74.83,1.82,0.08,0.0
+Hawaiian,Legislative Affairs: Advocacy in Washington D.C.,03/07/2026,1213,99.92,75.0,1.82,0.08,0.0
 Mesa Air Group,MAG Hotline 20260227,02/27/2026,526,100.0,68.25,3.42,0.0,0.0
-Mesa Air Group,MAG Hotline 20260306,03/06/2026,525,100.0,68.76,7.81,0.0,0.0
-Mesa Air Group,MAG Hotline 20260313,03/13/2026,523,100.0,67.3,2.68,0.0,0.0
-Mesa Air Group,MAG Merger Update - February 19 2026,02/19/2026,527,100.0,57.87,1.52,0.0,0.0
-Mesa Air Group,MAG Merger Update - March 6 2026,03/06/2026,527,100.0,69.45,1.52,0.0,0.19
-Mesa Air Group,MAG Safety - CLT Update,03/19/2026,528,100.0,60.61,6.44,0.0,0.19
-Mesa Air Group,MAG Safety - Exercise Caution in Travel to Mexico,02/24/2026,525,100.0,68.95,2.67,0.0,0.0
-Mesa Air Group,MAG Scheduling Committee - March Update,03/11/2026,524,100.0,66.22,1.15,0.0,0.0
-Alaska Airlines,March Podcast 03-13-26,03/13/2026,3328,99.97,68.26,6.28,0.03,0.0
-Delta,MEC Alert 26-04_Security_Update_Resources,02/23/2026,16162,100.0,75.39,3.79,0.0,0.01
-Delta,MEC Alert 26-05_Payback_Days,03/02/2026,16130,99.99,79.54,0.92,0.01,0.01
-Hawaiian,MEC Alert: Door Pay Missing from 3/20 Pay,03/19/2026,1209,91.98,66.1,0.81,0.0,0.0
-Hawaiian,MEC Alert: Global Entry and TSA PreCheck Access,02/22/2026,1214,100.0,80.72,0.49,0.0,0.0
-Delta,MEC Brief 26-03 - Year in Review 2025,03/04/2026,16127,99.99,75.84,2.57,0.01,0.02
-FedEx Express,MEC Chair Message - 3/19/26,03/19/2026,4890,99.98,74.43,0.67,0.02,0.0
-Delta,MEC News - February 19 2026,02/19/2026,16166,99.97,35.72,10.3,0.03,0.0
-Delta,MEC News - February 26 2026,02/26/2026,16137,99.99,55.97,4.97,0.01,0.0
-Delta,MEC News - March 12 2026,03/12/2026,16218,99.99,71.44,10.48,0.01,0.0
-Delta,MEC News - March 19 2026,03/19/2026,16277,97.12,59.9,5.16,0.03,0.0
-Delta,MEC News - March 5 2026,03/05/2026,16132,100.0,74.83,9.07,0.0,0.01
-Alaska Airlines,MEC Update 02-19-26,02/19/2026,3348,99.7,63.42,14.23,0.3,0.0
-Alaska Airlines,MEC Update 03-12-26,03/12/2026,3329,99.94,74.12,5.86,0.06,0.0
-Alaska Airlines,MEC Update 2-25-26 Security edition,02/25/2026,3346,99.94,77.06,1.7,0.06,0.0
-United Airlines,MEC Update 2.28.26 - Security Committee Update,02/28/2026,17859,99.89,73.54,3.52,0.11,0.02
-United Airlines,MEC Update 2.28.26 - TLV Security,02/28/2026,17854,99.89,73.28,1.28,0.11,0.03
-United Airlines,MEC Update 3.3.26 - Special Meeting Update,03/03/2026,17852,99.98,64.36,3.23,0.02,0.04
-United Airlines,MEC Update 3.5.26 - Pass Travel Update,03/09/2026,17906,99.99,76.05,3.42,0.01,0.01
-Sun Country,MEC Update: DOJ Anti Trust Approval,03/16/2026,700,100.0,77.43,3.29,0.0,0.14
-United Airlines,MEC Update: Feb 25 R&I,02/24/2026,17856,99.99,68.11,0.59,0.01,0.04
-Hawaiian,MEC Update: February 21 2026,02/21/2026,1214,99.84,82.51,16.91,0.16,0.0
-United Airlines,MEC Update: February 22 2026 - NYC-WAS IRROPS,02/22/2026,17860,99.98,75.38,3.59,0.02,0.02
-United Airlines,MEC Update: March 1 2026 - New Volunteers,03/01/2026,17852,99.98,74.05,0.63,0.02,0.04
-Hawaiian,MEC Update: March 13 2026,03/13/2026,1210,100.0,77.85,9.42,0.0,0.0
-Hawaiian,MEC Update: March 5 2026,03/05/2026,1218,99.92,78.72,4.11,0.08,0.0
-Hawaiian,MEC Update: March 7 2026,03/07/2026,1216,99.92,80.74,7.41,0.08,0.0
-United Airlines,MEC Weekly Update: February 19 2026,02/19/2026,17813,99.98,53.59,3.76,0.02,0.02
-United Airlines,MEC Weekly Update: February 26 2026,02/26/2026,17850,99.99,71.65,6.32,0.01,0.03
-United Airlines,MEC Weekly Update: March 12 2026,03/12/2026,17891,99.9,68.81,4.55,0.1,0.03
-United Airlines,MEC Weekly Update: March 19 2026,03/19/2026,17948,99.43,60.52,7.79,0.02,0.01
-United Airlines,MEC Weekly Update: March 5 2026,03/06/2026,17910,99.97,71.27,7.19,0.03,0.02
-Delta,MEC_Meeting_AUS_PUB_Event_MARCH_4_2026,03/03/2026,219,100.0,72.6,7.76,0.0,0.0
-Alaska Airlines,Mexico Security Comm 02-23-26,02/23/2026,3346,99.97,79.61,1.32,0.03,0.0
-Breeze Airways,MXY: ALPA All-Pilot Call Invite 03.02.26,03/03/2026,543,100.0,55.8,3.31,0.0,0.0
-Breeze Airways,MXY: ALPA All-Pilot Call Invite March #2,03/17/2026,541,100.0,52.87,2.4,0.0,0.0
-Breeze Airways,MXY: ALPA All-Pilot Call Reminder 02.19.26,02/19/2026,537,100.0,39.11,3.17,0.0,0.0
-Breeze Airways,MXY: ALPA All-Pilot Call Reminder 03.05.26,03/05/2026,544,100.0,58.09,2.57,0.0,0.0
-Breeze Airways,MXY: ALPA All-Pilot Call Reminder March #2,03/19/2026,542,100.0,45.94,2.4,0.0,0.0
-Breeze Airways,MXY: From the Chairman: Feb. Update,02/20/2026,539,100.0,62.34,0.93,0.0,0.0
-Breeze Airways,MXY: ORF MEC Meet & Greet 03.17.26,03/16/2026,547,100.0,53.38,1.46,0.0,0.73
-Breeze Airways,MXY: Propelling Breeze Newsletter March Edition #1,03/11/2026,544,100.0,59.19,4.41,0.0,0.18
-Breeze Airways,MXY: Propelling Breeze Newsletter: Feb. Edition #2,02/24/2026,540,100.0,61.85,3.89,0.0,0.0
-Breeze Airways,MXY: R&I Update 2 10 2026,03/02/2026,543,100.0,65.93,5.16,0.0,0.0
-Breeze Airways,MXY: The Parley: Feb. Negotiations Update,02/19/2026,540,100.0,48.7,2.59,0.0,0.0
-Spirit,NavBlue PBS Reminder (to be sent March 3rd),03/03/2026,2242,99.96,76.31,16.02,0.04,0.04
-FedEx Express,Negotiating Committee Message - 3/1/26,03/01/2026,4911,100.0,85.4,1.59,0.0,0.0
-FedEx Express,Negotiating Committee Message - 3/11/26,03/11/2026,4911,99.98,82.02,1.38,0.02,0.0
-Endeavor Air,Negotiations Update: EDV MEC Feb. 26,02/26/2026,1760,99.94,78.85,0.4,0.06,0.06
-Alaska Airlines,New MEC officers Comm 02-27-26,02/27/2026,3348,99.94,73.13,0.3,0.06,0.0
-Spirit,Pairing Analyzer Issue (3-7-26),03/07/2026,2222,100.0,74.98,0.77,0.0,0.09
-Hawaiian,Pass Travel: Atmos Upgrade & Deadhead Updates,02/24/2026,1215,100.0,80.74,3.62,0.0,0.0
-Hawaiian,Pass Travel: Deadheads,02/18/2026,1215,100.0,55.8,1.32,0.0,0.0
-Hawaiian,Pay: Door Pay on Pay Statements,02/23/2026,1214,100.0,81.22,1.89,0.0,0.0
-PAL Airlines,PBA MEC UPDATE 2/20/2026,02/20/2026,256,100.0,66.41,0.39,0.0,0.0
-PAL Airlines,PBA MEC UPDATE 2/25/2026,02/25/2026,258,100.0,67.44,1.16,0.0,0.0
-Alaska Airlines,PBS Comm 03-06-26,03/06/2026,3338,100.0,75.7,0.54,0.0,0.03
-Endeavor Air,PBS Hotline April Regular Bid 2026,03/11/2026,1778,99.94,71.07,1.35,0.06,0.0
-Piedmont,PDT - Summer PUB Event Schedule,03/17/2026,898,100.0,57.68,0.45,0.0,0.0
-Piedmont,PDT Digest 260312,03/12/2026,892,100.0,70.18,3.14,0.0,0.0
-Piedmont,PDT Gazette 20260319,03/19/2026,893,98.1,61.19,7.88,0.0,0.0
-Piedmont,PDT Gazette 260304,03/05/2026,895,100.0,74.3,9.16,0.0,0.0
-Piedmont,PDT Gazette Feb. 19 2026,02/19/2026,897,100.0,67.11,11.71,0.0,0.0
-Piedmont,PDT MEC Update - From the Chair March 2,03/02/2026,893,100.0,74.36,0.9,0.0,0.0
-Piedmont,PDT Pilot Digest - Feb 26,02/26/2026,898,100.0,75.28,1.34,0.0,0.0
-Porter,POE NN February 25,02/25/2026,921,99.89,78.15,0.65,0.11,0.0
-Porter,POE NN March 18 2025,03/18/2026,915,100.0,75.3,10.49,0.0,0.0
-Porter,POE Pilot Update - Communications Volunteers,03/19/2026,917,97.93,61.36,1.0,0.0,0.11
-Porter,POE Pilot Update - March 2 2026,03/02/2026,928,100.0,77.8,4.09,0.0,0.0
+Mesa Air Group,MAG Hotline 20260306,03/06/2026,525,100.0,69.14,7.81,0.0,0.0
+Mesa Air Group,MAG Hotline 20260313,03/13/2026,523,100.0,68.26,2.68,0.0,0.0
+Mesa Air Group,MAG Hotline 20260320,03/20/2026,1308,100.0,72.25,3.06,0.0,0.23
+Mesa Air Group,MAG Merger Update - March 6 2026,03/06/2026,527,100.0,69.83,1.52,0.0,0.19
+Mesa Air Group,MAG Safety - CLT Update,03/19/2026,528,100.0,65.91,7.39,0.0,0.19
+Mesa Air Group,MAG Safety - Exercise Caution in Travel to Mexico,02/24/2026,525,100.0,69.14,2.67,0.0,0.0
+Mesa Air Group,MAG Scheduling Committee - March Update,03/11/2026,524,100.0,68.51,1.15,0.0,0.0
+Alaska Airlines,March Podcast 03-13-26,03/13/2026,3328,99.97,69.61,6.46,0.03,0.0
+Delta,MEC Alert 26-04_Security_Update_Resources,02/23/2026,16162,100.0,75.5,3.79,0.0,0.01
+Delta,MEC Alert 26-05_Payback_Days,03/02/2026,16130,99.99,79.66,0.92,0.01,0.01
+Hawaiian,MEC Alert: Door Pay Missing from 3/20 Pay,03/19/2026,1209,100.0,75.93,1.16,0.0,0.0
+Hawaiian,MEC Alert: Global Entry and TSA PreCheck Access,02/22/2026,1214,100.0,81.05,0.58,0.0,0.0
+Hawaiian,MEC Alert: Oahu North Shore Evacuations,03/20/2026,1209,100.0,74.44,4.63,0.0,0.0
+Delta,MEC Brief 26-03 - Year in Review 2025,03/04/2026,16127,99.99,76.11,2.57,0.01,0.02
+FedEx Express,MEC Chair Message - 3/19/26,03/19/2026,4890,99.98,79.89,0.72,0.02,0.0
+FedEx Express,MEC Chair Message - 3/23/26,03/23/2026,4888,99.9,73.19,0.47,0.0,0.0
+Delta,MEC News - February 26 2026,02/26/2026,16137,99.99,56.11,4.98,0.01,0.0
+Delta,MEC News - March 12 2026,03/12/2026,16218,99.99,73.06,10.57,0.01,0.0
+Delta,MEC News - March 19 2026,03/19/2026,16277,99.97,70.64,6.73,0.03,0.0
+Delta,MEC News - March 5 2026,03/05/2026,16132,100.0,75.06,9.08,0.0,0.01
+Alaska Airlines,MEC Update 03-12-26,03/12/2026,3329,99.94,75.62,6.04,0.06,0.0
+Alaska Airlines,MEC Update 2-25-26 Security edition,02/25/2026,3346,99.94,77.27,1.7,0.06,0.0
+United Airlines,MEC Update 2.28.26 - Security Committee Update,02/28/2026,17859,99.89,73.71,3.52,0.11,0.03
+United Airlines,MEC Update 2.28.26 - TLV Security,02/28/2026,17854,99.89,73.45,1.29,0.11,0.03
+United Airlines,MEC Update 3.20.26 - April MEC Meeting,03/20/2026,18021,99.98,69.35,2.44,0.02,0.02
+United Airlines,MEC Update 3.3.26 - Special Meeting Update,03/03/2026,17852,99.98,64.63,3.24,0.02,0.04
+United Airlines,MEC Update 3.5.26 - Pass Travel Update,03/09/2026,17906,99.99,76.56,3.5,0.01,0.01
+Alaska Airlines,MEC Update Jazz 3-23-26,03/23/2026,3328,90.05,59.83,0.3,0.0,0.0
+Sun Country,MEC Update: DOJ Anti Trust Approval,03/16/2026,700,100.0,77.71,3.29,0.0,0.14
+United Airlines,MEC Update: Feb 25 R&I,02/24/2026,17856,99.99,68.24,0.6,0.01,0.05
+United Airlines,MEC Update: February 22 2026 - NYC-WAS IRROPS,02/22/2026,17860,99.98,75.47,3.59,0.02,0.02
+Air Canada,MEC Update: JZA8646,03/23/2026,5518,99.31,75.95,0.57,0.0,0.0
+United Airlines,MEC Update: March 1 2026 - New Volunteers,03/01/2026,17852,99.98,74.25,0.63,0.02,0.04
+Hawaiian,MEC Update: March 13 2026,03/13/2026,1210,100.0,78.93,9.67,0.0,0.0
+Hawaiian,MEC Update: March 23 2026,03/23/2026,1210,91.98,67.65,1.71,0.0,0.0
+Hawaiian,MEC Update: March 5 2026,03/05/2026,1218,99.92,78.8,4.11,0.08,0.0
+Hawaiian,MEC Update: March 7 2026,03/07/2026,1216,99.92,80.74,7.49,0.08,0.0
+United Airlines,MEC Weekly Update: February 26 2026,02/26/2026,17850,99.99,71.88,6.32,0.01,0.04
+United Airlines,MEC Weekly Update: March 12 2026,03/12/2026,17891,99.9,70.61,4.66,0.1,0.03
+United Airlines,MEC Weekly Update: March 19 2026,03/19/2026,17948,99.96,69.47,10.37,0.04,0.02
+United Airlines,MEC Weekly Update: March 5 2026,03/06/2026,17910,99.97,71.6,7.24,0.03,0.03
+Delta,MEC_Meeting_AUS_PUB_Event_MARCH_4_2026,03/03/2026,109,100.0,71.56,8.26,0.0,0.0
+Alaska Airlines,Mexico Security Comm 02-23-26,02/23/2026,3346,99.97,79.73,1.32,0.03,0.0
+Breeze Airways,MXY MEC Update LGA 3-23-2026,03/23/2026,541,97.78,52.17,0.76,0.0,0.0
+Breeze Airways,MXY: ALPA All-Pilot Call Invite 03.02.26,03/03/2026,543,100.0,55.99,3.31,0.0,0.0
+Breeze Airways,MXY: ALPA All-Pilot Call Invite March #2,03/17/2026,541,100.0,53.42,2.4,0.0,0.0
+Breeze Airways,MXY: ALPA All-Pilot Call Reminder 03.05.26,03/05/2026,544,100.0,58.46,2.57,0.0,0.0
+Breeze Airways,MXY: ALPA All-Pilot Call Reminder March #2,03/19/2026,542,100.0,53.32,3.51,0.0,0.0
+Breeze Airways,MXY: March Meeting Recap,03/20/2026,542,100.0,56.27,0.74,0.0,0.0
+Breeze Airways,MXY: ORF MEC Meet & Greet 03.17.26,03/16/2026,547,100.0,53.56,1.46,0.0,0.73
+Breeze Airways,MXY: Propelling Breeze Newsletter March Edition #1,03/11/2026,544,100.0,61.58,4.41,0.0,0.18
+Breeze Airways,MXY: Propelling Breeze Newsletter: Feb. Edition #2,02/24/2026,540,100.0,62.04,3.89,0.0,0.0
+Breeze Airways,MXY: R&I Update 2 10 2026,03/02/2026,543,100.0,66.48,5.16,0.0,0.0
+Spirit,NavBlue PBS Reminder (to be sent March 3rd),03/03/2026,2242,99.96,76.44,16.06,0.04,0.04
+FedEx Express,Negotiating Committee Message - 3/1/26,03/01/2026,4911,100.0,85.52,1.59,0.0,0.0
+FedEx Express,Negotiating Committee Message - 3/11/26,03/11/2026,4911,99.98,83.4,1.41,0.02,0.0
+Endeavor Air,Negotiations Update: EDV MEC Feb. 26,02/26/2026,1760,99.94,78.97,0.4,0.06,0.06
+Alaska Airlines,New MEC officers Comm 02-27-26,02/27/2026,3348,99.94,73.28,0.3,0.06,0.0
+Spirit,Pairing Analyzer Issue (3-7-26),03/07/2026,2222,100.0,75.34,0.77,0.0,0.09
+Hawaiian,Pass Travel: Atmos Upgrade & Deadhead Updates,02/24/2026,1215,100.0,81.07,3.95,0.0,0.0
+Hawaiian,Pay: Door Pay on Pay Statements,02/23/2026,1214,100.0,81.3,1.98,0.0,0.0
+PAL Airlines,PBA MEC UPDATE 2/25/2026,02/25/2026,258,100.0,68.22,1.16,0.0,0.0
+PAL Airlines,PBA MEC UPDATE 3/23/2026,03/23/2026,254,95.67,58.02,0.41,0.0,0.0
+Alaska Airlines,PBS Comm 03-06-26,03/06/2026,3338,100.0,75.97,0.54,0.0,0.03
+Endeavor Air,PBS Hotline April Regular Bid 2026,03/11/2026,1778,99.94,72.65,1.41,0.06,0.0
+Piedmont,PDT - Summer PUB Event Schedule,03/17/2026,898,100.0,60.13,0.45,0.0,0.0
+Piedmont,PDT Digest 260312,03/12/2026,892,100.0,71.75,3.36,0.0,0.0
+Piedmont,PDT Gazette 20260319,03/19/2026,893,99.33,71.48,11.39,0.67,0.0
+Piedmont,PDT Gazette 260304,03/05/2026,895,100.0,74.41,9.27,0.0,0.0
+Piedmont,PDT MEC Update - From the Chair March 2,03/02/2026,893,100.0,74.47,0.9,0.0,0.0
+Piedmont,PDT Pilot Digest - Feb 26,02/26/2026,898,100.0,75.39,1.34,0.0,0.0
+Porter,POE NN February 25,02/25/2026,921,99.89,78.37,0.65,0.11,0.0
+Porter,POE NN March 18 2025,03/18/2026,915,100.0,78.36,10.71,0.0,0.0
+Porter,POE Pilot Update - Base Closures,03/23/2026,918,94.66,72.15,13.35,0.0,0.0
+Porter,POE Pilot Update - Communications Volunteers,03/19/2026,917,100.0,69.47,1.09,0.0,0.11
+Porter,POE Pilot Update - March 2 2026,03/02/2026,928,100.0,77.91,4.31,0.0,0.0
+Porter,POE Urgent Update - Base Closure Meetings,03/23/2026,915,85.36,57.62,1.92,0.0,0.0
 Porter,POE Urgent Update - February 22 2026 PVR ALERT,02/22/2026,922,99.89,81.0,1.41,0.11,0.0
-FedEx Express,Positive Rate Weekly - 2/18/26,02/18/2026,4928,100.0,42.55,7.93,0.0,0.0
-FedEx Express,Positive Rate Weekly - 2/24/26,02/24/2026,4923,99.94,80.14,8.33,0.06,0.0
-FedEx Express,Positive Rate Weekly - 3/10/26,03/11/2026,4912,99.92,77.04,8.46,0.08,0.0
-FedEx Express,Positive Rate Weekly - 3/17/26,03/17/2026,4894,99.98,74.92,2.08,0.02,0.0
-FedEx Express,Positive Rate Weekly - 3/4/26,03/04/2026,4915,100.0,77.19,6.75,0.0,0.0
+Porter,POE Urgent Update - LGA Runway Collision,03/23/2026,913,97.92,57.27,1.45,0.0,0.11
+FedEx Express,Positive Rate Weekly - 2/24/26,02/24/2026,4923,99.94,80.28,8.35,0.06,0.0
+FedEx Express,Positive Rate Weekly - 3/10/26,03/11/2026,4912,99.92,78.57,8.48,0.08,0.0
+FedEx Express,Positive Rate Weekly - 3/17/26,03/17/2026,4894,99.98,76.13,2.19,0.02,0.0
+FedEx Express,Positive Rate Weekly - 3/4/26,03/04/2026,4915,100.0,77.48,6.78,0.0,0.0
 Pascan (Custodianship),PSC MEC UPDATE 3/09/2026,03/09/2026,116,100.0,67.24,0.0,0.0,0.0
-Pascan (Custodianship),PSC MEC UPDATE 3/11/2026,03/11/2026,116,100.0,58.62,1.72,0.0,0.0
+Pascan (Custodianship),PSC MEC UPDATE 3/11/2026,03/11/2026,116,100.0,59.48,1.72,0.0,0.0
 Pascan (Custodianship),PSC MEC UPDATE 3/16/2026,03/16/2026,119,100.0,68.07,0.0,0.0,0.0
-PAL Airlines,PVL MEC Update 3/11/2026,03/11/2026,299,100.0,67.89,1.34,0.0,0.0
-PAL Airlines,PVL Negotiating Committee Update 3/9/2026,03/16/2026,255,100.0,72.55,4.71,0.0,0.0
-Hawaiian,R&I Q1 Newsletter: FSA/HRA Merger Contacts PMHP,03/06/2026,1223,99.92,78.15,7.28,0.08,0.0
-FedEx Express,Safety Matters: Reports - 2/20/26,02/23/2026,4922,99.96,77.62,1.04,0.04,0.0
-Sun Country,SCA - PBS Update March 11 2026,03/11/2026,703,99.86,71.51,1.0,0.14,0.14
-Sun Country,SCA -- Scheduling Update,03/16/2026,698,100.0,77.79,4.44,0.0,0.0
-Sun Country,SCA MEC Update - March 17 2026,03/17/2026,699,100.0,74.25,9.44,0.0,0.0
-Sun Country,SCA MEC Update - March 3 2026,03/03/2026,696,100.0,79.31,10.92,0.0,0.0
-Sun Country,SCA MEC Update Hotel Committee,03/05/2026,698,100.0,75.36,0.57,0.0,0.0
-Sun Country,SCA Merger Update #2 - Feb. 23,02/23/2026,698,100.0,76.93,3.58,0.0,0.0
-Sun Country,SCA- Notification and Grievance Update,02/27/2026,699,100.0,77.68,3.15,0.0,0.0
-Endeavor Air,Scheduling Committee Update Feb. 20,02/20/2026,1787,99.94,77.88,0.78,0.06,0.0
-Alaska Airlines,Scheduling Update 2-27-26,03/01/2026,3341,99.97,78.5,31.74,0.03,0.03
-Air Canada,Security Committee - Feb 22 2026,02/22/2026,5519,100.0,80.58,0.38,0.0,0.02
-Air Canada,Security Committee - Iran Update,02/28/2026,5540,100.0,79.49,0.23,0.0,0.02
-FedEx Express,Security Committee Message - 2/23/26,02/23/2026,4922,99.96,80.06,3.43,0.04,0.0
-FedEx Express,Security Committee Message - 2/28/26,02/28/2026,4912,100.0,77.38,0.63,0.0,0.0
-FedEx Express,Security Committee Message - 3/7/26,03/07/2026,4911,100.0,79.5,0.92,0.0,0.0
-Air Canada,Security Update - March 9,03/10/2026,5537,100.0,77.7,0.36,0.0,0.0
-Alaska Airlines,Security Update 03-05-26,03/05/2026,3336,100.0,74.91,0.3,0.0,0.0
-Alaska Airlines,SIO Comm 03-13-26,03/13/2026,3330,99.97,77.65,3.72,0.03,0.0
-Alaska Airlines,SIO Update 03-16-26,03/16/2026,3327,100.0,74.66,0.66,0.0,0.0
-Spirit,SPA Chair Message RSA 3-13-2026,03/13/2026,2395,99.96,79.91,0.92,0.04,0.08
-Spirit,SPA Chairman's Message 2-24-2026,02/24/2026,2447,100.0,74.17,0.82,0.0,0.04
-Spirit,SPA Chairman's Message 3-10-2026,03/10/2026,2413,99.92,74.45,1.45,0.08,0.08
-Spirit,SPA Crew Brief -- Positive Space,03/10/2026,2411,99.92,74.47,0.75,0.08,0.08
-Spirit,SPA MEC Update Meeting Notice 2-27-2026,02/27/2026,2447,100.0,77.03,0.57,0.0,0.08
-Spirit,SPA MEC Update Meeting Summary 3-12-2026,03/13/2026,2402,100.0,75.31,2.5,0.0,0.08
-Spirit,SPA Status Page 3-18-2026,03/18/2026,2384,99.92,74.73,4.7,0.08,0.0
-PAL Aerospace,SPR MEC Update 2/17/2026,02/18/2026,139,100.0,45.32,0.72,0.0,0.0
+Pascan (Custodianship),PSC SPECIAL UPDATE 3/23/2026,03/23/2026,116,96.55,55.36,0.0,0.0,0.0
+Hawaiian,PSS Open Enrollment and Pass Travel Changes,03/23/2026,1210,96.94,72.72,11.17,0.0,0.0
+PAL Airlines,PVL MEC Update 3/11/2026,03/11/2026,299,100.0,70.23,1.34,0.0,0.0
+PAL Airlines,PVL MEC Update 3/23/2026,03/23/2026,300,87.0,50.19,0.77,0.0,0.0
+PAL Airlines,PVL Negotiating Committee Update 3/9/2026,03/16/2026,255,100.0,74.12,4.71,0.0,0.0
+Hawaiian,R&I Q1 Newsletter: FSA/HRA Merger Contacts PMHP,03/06/2026,1223,99.92,78.48,7.45,0.08,0.0
+Delta,RCC Report - RPS Results March 2026,03/21/2026,16272,99.98,70.2,16.92,0.02,0.0
+FedEx Express,Safety Matters: Reports - 2/20/26,02/23/2026,4921,99.96,77.72,1.02,0.04,0.0
+Sun Country,SCA - LGA Collision,03/23/2026,701,97.86,68.95,0.87,0.0,0.0
+Sun Country,SCA - PBS Update March 11 2026,03/11/2026,703,99.86,72.79,1.14,0.14,0.14
+Sun Country,SCA -- AFW domicile alert 260323,03/23/2026,699,97.85,76.61,0.73,0.0,0.0
+Sun Country,SCA -- Scheduling Update,03/16/2026,698,100.0,78.22,4.58,0.0,0.0
+Sun Country,SCA MEC Update - March 17 2026,03/17/2026,699,100.0,75.68,10.16,0.0,0.0
+Sun Country,SCA MEC Update - March 3 2026,03/03/2026,696,100.0,79.89,10.92,0.0,0.0
+Sun Country,SCA MEC Update Hotel Committee,03/05/2026,698,100.0,75.79,0.57,0.0,0.0
+Sun Country,SCA Merger Update #2 - Feb. 23,02/23/2026,698,100.0,77.36,3.58,0.0,0.0
+Sun Country,SCA- Notification and Grievance Update,02/27/2026,699,100.0,78.11,3.15,0.0,0.0
+Alaska Airlines,Scheduling Update 2-27-26,03/01/2026,3341,99.97,78.62,31.74,0.03,0.03
+Air Canada,Security Committee - Feb 22 2026,02/22/2026,5519,100.0,80.63,0.38,0.0,0.02
+Air Canada,Security Committee - Iran Update,02/28/2026,5540,100.0,79.57,0.23,0.0,0.02
+FedEx Express,Security Committee Message - 2/23/26,02/23/2026,4922,99.96,80.1,3.43,0.04,0.0
+FedEx Express,Security Committee Message - 2/28/26,02/28/2026,4912,100.0,77.57,0.63,0.0,0.0
+FedEx Express,Security Committee Message - 3/7/26,03/07/2026,4911,100.0,79.72,0.92,0.0,0.0
+Air Canada,Security Update - March 9,03/10/2026,5537,100.0,78.04,0.36,0.0,0.0
+Alaska Airlines,Security Update 03-05-26,03/05/2026,3336,100.0,75.18,0.3,0.0,0.0
+Alaska Airlines,SIO Comm 03-13-26,03/13/2026,3330,99.97,78.64,3.75,0.03,0.0
+Alaska Airlines,SIO Update 03-16-26,03/16/2026,3327,100.0,75.38,0.69,0.0,0.0
+Spirit,SPA Chair Message RSA 3-13-2026,03/13/2026,2395,99.96,80.7,0.96,0.04,0.13
+Spirit,SPA Chairman's Message 2-24-2026,02/24/2026,2447,100.0,74.34,0.82,0.0,0.04
+Spirit,SPA Chairman's Message 3-10-2026,03/10/2026,2413,99.92,74.95,1.45,0.08,0.08
+Spirit,SPA Crew Brief -- Positive Space,03/10/2026,2411,99.92,74.84,0.75,0.08,0.08
+Spirit,SPA MEC Update -- LGA Runway Collision,03/23/2026,2334,96.36,66.34,0.84,0.04,0.0
+Spirit,SPA MEC Update Meeting Notice 2-27-2026,02/27/2026,2447,100.0,77.07,0.57,0.0,0.08
+Spirit,SPA MEC Update Meeting Summary 3-12-2026,03/13/2026,2402,100.0,76.6,2.54,0.0,0.12
+Spirit,SPA Status Page 3-18-2026,03/18/2026,2384,99.92,77.12,5.0,0.08,0.0
+PAL Aerospace,SPR MEC Update 3/23/2026,03/23/2026,141,92.91,41.22,0.0,0.0,0.0
 PAL Aerospace,SPR MEC Update 3/3/2026,03/03/2026,145,100.0,61.38,1.38,0.0,0.0
 Envoy Air,Spring 2026 Junior Man Reminders,03/15/2026,2433,100.0,74.31,0.41,0.0,0.0
-Spirit,Status Page (2-18-26),02/18/2026,2474,99.96,53.66,6.11,0.04,0.08
-Spirit,Status Page (2-25-26),02/25/2026,2449,100.0,80.36,6.66,0.0,0.04
-Spirit,Status Page (3-11-26),03/11/2026,2415,100.0,79.17,11.76,0.0,0.08
-Spirit,Status Page (3-4-26),03/04/2026,2439,99.96,80.84,24.65,0.04,0.08
-Spirit,System Bids Move from FLICA to Crew Central,03/02/2026,2434,100.0,77.16,1.03,0.0,0.08
+Spirit,Status Page (2-25-26),02/25/2026,2449,100.0,80.48,6.66,0.0,0.04
+Spirit,Status Page (3-11-26),03/11/2026,2415,100.0,80.75,12.22,0.0,0.08
+Spirit,Status Page (3-4-26),03/04/2026,2439,99.96,80.97,24.69,0.04,0.08
+PSA Airlines,Supporting each other in the wake of JAZ 8646,03/23/2026,2026,98.32,63.05,0.3,0.0,0.0
+Spirit,System Bids Move from FLICA to Crew Central,03/02/2026,2434,100.0,77.53,1.07,0.0,0.08
 Air Transat,TSC - PVR Alert,02/22/2026,783,100.0,84.55,1.53,0.0,0.0
-Air Transat,TSC CASC - Middle East Overview,03/03/2026,786,100.0,84.1,1.53,0.0,0.0
-Air Transat,TSC Trans-Mission - 022026,02/20/2026,791,100.0,85.71,1.9,0.0,0.0
-Air Transat,TSC Trans-Mission - 022726,02/27/2026,784,100.0,85.46,20.03,0.0,0.0
-Air Transat,TSC Trans-Mission - 030626,03/06/2026,784,100.0,84.82,2.04,0.0,0.0
-Air Transat,TSC Trans-Mission - 031326,03/13/2026,785,100.0,83.57,2.29,0.0,0.0
-FedEx Express,Tundra Tidbits - 3/16/26,03/15/2026,299,100.0,78.6,8.03,0.0,0.0
-Frontier Airlines,Upcoming Airport Sits,03/07/2026,2264,100.0,75.22,0.53,0.0,0.04
-Hawaiian,Upcoming HAL MEC Meeting and Officer Elections,03/16/2026,1213,100.0,76.75,0.91,0.0,0.0
+Air Transat,TSC CASC - Middle East Overview,03/03/2026,786,100.0,84.22,1.53,0.0,0.0
+Air Transat,TSC T-M - JAZ 8646,03/23/2026,780,97.95,76.83,1.44,0.0,0.0
+Air Transat,TSC Trans-Mission - 022726,02/27/2026,784,100.0,85.71,20.03,0.0,0.0
+Air Transat,TSC Trans-Mission - 030626,03/06/2026,784,100.0,85.2,2.04,0.0,0.0
+Air Transat,TSC Trans-Mission - 031326,03/13/2026,785,100.0,85.1,2.29,0.0,0.0
+Air Transat,TSC Trans-Mission - 032026,03/20/2026,784,100.0,83.16,11.35,0.0,0.0
+FedEx Express,Tundra Tidbits - 3/16/26,03/15/2026,299,100.0,78.6,8.36,0.0,0.0
+Frontier Airlines,Upcoming Airport Sits,03/07/2026,2264,100.0,75.4,0.53,0.0,0.04
+Hawaiian,Upcoming HAL MEC Meeting and Officer Elections,03/16/2026,1213,100.0,77.58,0.91,0.0,0.0
 West Jet Encore,WEN MEC Update 2-22-26,02/22/2026,470,100.0,77.87,1.49,0.0,0.0
-West Jet Encore,WEN MEC Update 3-10-26,03/11/2026,480,100.0,68.13,1.25,0.0,0.0
-West Jet Encore,WEN MEC Update 3-16-26,03/16/2026,478,100.0,75.73,2.3,0.0,0.0
-West Jet Encore,WEN MEC Update 3-16-26 (copy),03/16/2026,477,100.0,72.75,1.47,0.0,0.0
+West Jet Encore,WEN MEC Update 3-10-26,03/11/2026,480,100.0,68.54,1.25,0.0,0.0
+West Jet Encore,WEN MEC Update 3-16-26,03/16/2026,478,100.0,75.94,2.51,0.0,0.0
+West Jet Encore,WEN MEC Update 3-16-26 (copy),03/16/2026,477,100.0,73.17,1.47,0.0,0.0
+West Jet Encore,WEN MEC Update 3-19-26,03/20/2026,478,99.37,73.89,1.47,0.63,0.0
+West Jet Encore,WEN MEC Update 3-23-26,03/23/2026,478,87.66,63.01,1.91,0.0,0.0
 West Jet Encore,WEN MEC Update 3-4-26,03/04/2026,474,100.0,76.16,2.11,0.0,0.0
-West Jet Encore,WEN MEC/LEC Update 3-16-26 *Correction,03/16/2026,476,100.0,72.27,1.47,0.0,0.0
-Western Global (Custodianship),WGN MEC UPDATE 2/20/2026,02/21/2026,171,98.83,79.29,4.14,1.17,0.59
+West Jet Encore,WEN MEC/LEC Update 3-16-26 *Correction,03/16/2026,476,100.0,72.69,1.89,0.0,0.0
+Western Global (Custodianship),WGN MEC SPECIAL UPDATE 3/23/26,03/23/2026,335,91.94,59.09,0.65,0.0,0.0
 Western Global (Custodianship),WGN MEC UPDATE 2/27/2026,02/27/2026,168,99.4,72.46,0.6,0.6,0.6
 Western Global (Custodianship),WGN MEC UPDATE 3/06/2026,03/06/2026,171,100.0,76.02,0.58,0.0,0.0
-Western Global (Custodianship),WGN MEC UPDATE 3/13/2026,03/13/2026,168,100.0,74.4,2.38,0.0,0.0
-Wasaya,WSG CASC UPDATE 3/13/2026,03/13/2026,184,100.0,65.22,1.09,0.0,0.0
+Western Global (Custodianship),WGN MEC UPDATE 3/13/2026,03/13/2026,168,100.0,75.0,2.38,0.0,0.0
+Western Global (Custodianship),WGN MEC UPDATE 3/30/2026,03/20/2026,169,100.0,69.82,0.59,0.0,0.0
+Wasaya,WSG CASC UPDATE 3/13/2026,03/13/2026,184,100.0,65.76,1.09,0.0,0.0
+Wasaya,WSG MEC 3/23/2026,03/23/2026,183,97.27,64.61,1.12,0.0,0.0
 Wasaya,WSG MEC UPDATE 3/03/3036,03/03/2026,181,100.0,70.17,3.31,0.0,0.0
-Air Canada,YUL Karting Family Awareness Event,03/06/2026,5537,100.0,66.57,0.16,0.0,0.0
-Air Canada,YUL Karting Family Awareness Event Reminder,03/19/2026,5516,92.71,58.0,0.7,4.02,0.0
+Air Canada,YUL Karting Family Awareness Event,03/06/2026,5537,100.0,66.9,0.16,0.0,0.0
