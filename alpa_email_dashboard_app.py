@@ -11,7 +11,6 @@ st.set_page_config(
 st.title("ALPA - Higher Logic Analytics")
 st.markdown("Email engagement dashboard (opens, clicks, trends)")
 
-@st.cache_data
 def load_data():
     df = pd.read_csv("ALPA_Email_Analytics_Cleaned.csv")
     df["last_sent"] = pd.to_datetime(df["last_sent"], errors="coerce")
